@@ -89,11 +89,10 @@ function Header({ view, navigate }) {
 
 function Home({ onOpen, navigate }) {
   const mission = useMemo(() => flags[new Date().getDate() % flags.length], [])
-  const ribbon = [...flags.slice(0, 10), ...flags.slice(0, 10)]
   return (
     <>
       <section className="hero section-pad">
-        <div className="eyebrow"><Sparkle size={16} weight="fill" /> Interaktywny atlas młodego flagologa</div>
+        <div className="eyebrow"><Sparkle size={16} weight="fill" /> Interaktywny atlas flag i symboli</div>
         <div className="hero-grid">
           <div>
             <h1>Każda flaga<br /><em>ma coś do powiedzenia.</em></h1>
@@ -113,10 +112,6 @@ function Home({ onOpen, navigate }) {
           </button>
         </div>
       </section>
-
-      <div className="flag-ribbon" aria-hidden="true">
-        <div>{ribbon.map((flag, index) => <img key={`${flag.code}-${index}`} src={flagSrc(flag.code)} alt="" />)}</div>
-      </div>
 
       <section className="method-section section-pad">
         <div className="section-heading split">
@@ -140,7 +135,7 @@ function Home({ onOpen, navigate }) {
             </button>
           ))}
           <button className="record-card color-record" onClick={() => onOpen(flags.find((f) => f.code === 'za'))}>
-            <div className="color-stack" aria-hidden="true"><i /><i /><i /><i /><i /><i /></div>
+            <img src={flagSrc('za')} alt="Flaga: Republika Południowej Afryki" />
             <span>Republika Południowej Afryki</span><strong>Sześć kolorów w jednym projekcie</strong><ArrowRight size={22} weight="bold" />
           </button>
         </div>
