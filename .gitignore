@@ -3,3 +3,4 @@ dist/
 .DS_Store
 qa-*.png
 qa-*.jpg
+.cache/

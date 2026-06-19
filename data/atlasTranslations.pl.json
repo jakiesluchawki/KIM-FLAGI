@@ -1,0 +1,1757 @@
+{
+  "ad": {
+    "description": "trzy pionowe paski w kolorze niebieskim (lewa strona), żółtym i czerwonym, z herbem narodowym pośrodku żółtego paska, który jest nieco szerszy niż pozostałe dwa; w herbie ćwiartowana tarcza z emblematami Urgell, Foix, Bearn i Katalonii; motto brzmi VIRTUS UNITA FORTIOR (Siła zjednoczona jest silniejsza)",
+    "meaning": "flaga łączy w sobie niebiesko-czerwone kolory Francji z czerwono-żółtym kolorem Hiszpanii, co symbolizuje francusko-hiszpańską ochronę",
+    "note": "uwaga: podobna do flag Czadu i Rumunii, które nie mają herbu narodowego pośrodku, oraz flagi Mołdawii, która ma godło państwowe",
+    "nationalSymbols": "czerwona krowa (rasa nieokreślona)",
+    "nationalColors": "niebieski, żółty, czerwony",
+    "independence": "1278 (utworzony pod wspólnym zwierzchnictwem francuskiego hrabiego Foix i hiszpańskiego biskupa Urgell)",
+    "location": "Europa Południowo-Zachodnia, Pireneje, na granicy Francji i Hiszpanii"
+  },
+  "af": {
+    "description": "trzy równe pionowe paski w kolorze czarnym (po lewej), czerwonym i zielonym, z białym godłem państwowym wyśrodkowanym na czerwonym pasku i lekko zachodzącym na pozostałe paski; godło przedstawia meczet z amboną i flagami po obu stronach; pod meczetem znajdują się cyfry wschodnioarabskie oznaczające rok słoneczny 1298 (1919 w kalendarzu gregoriańskim, rok niepodległości Afganistanu od Wielkiej Brytanii); meczet otacza granica snopów pszenicy; nad meczetem znajduje się arabski napis Shahada (wyznanie wiary muzułmańskiej) z promieniami wschodzącego słońca nad Takbirem (arabskie wyrażenie oznaczające „Bóg jest wielki”); pod meczetem znajduje się zwój z nazwą Afganistan",
+    "meaning": "czarny oznacza przeszłość, a czerwony krew przelaną za niepodległość; zielony może reprezentować nadzieję na przyszłość, dobrobyt rolnictwa lub islam\nhistoria: w XX wieku w Afganistanie doszło do większej liczby zmian we fladze narodowej – 19 na jednego – niż w jakimkolwiek innym kraju; na większości z nich pojawiły się kolory czarny, czerwony i zielony",
+    "note": "uwaga: Stany Zjednoczone nie uznały talibów ani żadnego innego podmiotu za rząd Afganistanu i w związku z tym nadal wywieszają flagę Afganistanu zgodnie z konstytucją tego kraju z 2004 r.",
+    "nationalSymbols": "lew",
+    "nationalColors": "czerwony, zielony, czarny",
+    "independence": "19 sierpnia 1919 (od brytyjskiej kontroli nad sprawami zagranicznymi Afganistanu)",
+    "location": "Azja Południowa, północ i zachód od Pakistanu, na wschód od Iranu"
+  },
+  "dz": {
+    "description": "dwa równe pionowe paski koloru zielonego (po lewej) i białego; czerwona pięcioramienna gwiazda wewnątrz czerwonego półksiężyca, wyśrodkowana nad dwukolorową granicą",
+    "meaning": "kolory reprezentują islam (zielony), czystość i pokój (biały) oraz wolność (czerwony); półksiężyc i gwiazda to także symbole islamu, ale półksiężyc jest bardziej zamknięty niż w innych krajach muzułmańskich, ponieważ Algierczycy wierzą, że długie rogi półksiężyca przynoszą szczęście",
+    "note": "",
+    "nationalSymbols": "pięcioramienna gwiazda pomiędzy wysuniętymi rogami półksiężyca; fenek",
+    "nationalColors": "zielony, biały, czerwony",
+    "independence": "5 lipca 1962 (z Francji)",
+    "location": "Afryka Północna, granicząca z Morzem Śródziemnym, pomiędzy Marokiem a Tunezją"
+  },
+  "ao": {
+    "description": "dwa równe poziome pasy w kolorze czerwonym (na górze) i czarnym z żółtym emblematem pięcioramiennej gwiazdy wewnątrz połowy koła zębatego, przeciętego maczetą (w stylu sierpu i młota)",
+    "meaning": "czerwony oznacza wolność, a czarny kontynent afrykański; godło symbolizuje robotników i chłopów",
+    "note": "",
+    "nationalSymbols": "antylopa czarna sobolowa (Palanca negra gigante)",
+    "nationalColors": "czerwony, czarny, żółty",
+    "independence": "11 listopada 1975 (z Portugalii)",
+    "location": "Afryka Południowa, granicząca z południowym Oceanem Atlantyckim, pomiędzy Namibią a Demokratyczną Republiką Konga"
+  },
+  "al": {
+    "description": "czerwony z czarnym dwugłowym orłem pośrodku",
+    "meaning": "Albańczycy tradycyjnie postrzegają siebie jako potomków orła; nazywają siebie „Shqiptare”, co można przetłumaczyć jako „synowie orła”\nhistoria: podobno projekt pochodzi od XV-wiecznego albańskiego bohatera Georgi Kastrioti SKANDERBEGA, który przewodził zwycięskiemu powstaniu przeciwko Turkom osmańskim",
+    "note": "",
+    "nationalSymbols": "czarny dwugłowy orzeł",
+    "nationalColors": "czerwony, czarny",
+    "independence": "28 listopada 1912 (z Imperium Osmańskiego)",
+    "location": "Europa Południowo-Wschodnia, granicząca z Morzem Adriatyckim i Morzem Jońskim, pomiędzy Grecją na południu a Czarnogórą i Kosowem na północy"
+  },
+  "ar": {
+    "description": "trzy równe poziome pasy w kolorze błękitu nieba (na górze), bieli i błękitu nieba; pośrodku białego paska znajduje się promienne żółte słońce z ludzką twarzą, znane jako Słońce Maja",
+    "meaning": "kolory przedstawiają czyste niebo i śnieg w Andach; słońce upamiętnia pierwszą masową demonstrację na rzecz niepodległości 25 maja 1810 r., kiedy słońce przebiło się przez chmury; słońce ma wyglądać jak Inti, inkaski bóg słońca",
+    "note": "",
+    "nationalSymbols": "Słońce majowe (symbol słońca z twarzą)",
+    "nationalColors": "błękit nieba, biały",
+    "independence": "9 lipca 1816 (z Hiszpanii)",
+    "location": "Południowa Ameryka Południowa, granicząca z południowym Oceanem Atlantyckim, pomiędzy Chile i Urugwajem"
+  },
+  "au": {
+    "description": "niebieski, z flagą Wielkiej Brytanii w lewym górnym kwadrancie i dużą siedmioramienną gwiazdą w lewym dolnym kwadrancie; po prawej stronie przedstawiono konstelację Krzyża Południa w kolorze białym, z jedną małą pięcioramienną gwiazdą i czterema większymi siedmioramiennymi gwiazdami",
+    "meaning": "największa gwiazda znana jest jako Gwiazda Wspólnoty Narodów lub Gwiazda Federacji i reprezentuje federację kolonii australijskich w 1901 r.; gwiazda ma jeden punkt za każdy z sześciu pierwotnych stanów plus jeden reprezentujący wszystkie wewnętrzne i zewnętrzne terytoria Australii",
+    "note": "",
+    "nationalSymbols": "Gwiazda Wspólnoty Narodów (siedmioramienna Gwiazda Federacji), akacja pycnantha, kangur, emu",
+    "nationalColors": "zielony, złoty",
+    "independence": "1 stycznia 1901 (z federacji kolonii brytyjskich)",
+    "location": "Oceania, kontynent położony pomiędzy Oceanem Indyjskim a południowym Pacyfikiem"
+  },
+  "sa": {
+    "description": "zielony (tradycyjny kolor islamski) z szahadą, czyli wyznaniem wiary muzułmańskiej, zapisanym dużym białym pismem arabskim, które można przetłumaczyć jako: „Nie ma boga prócz Boga; Mahomet jest posłańcem Boga”; tekst znajduje się nad białą poziomą szablą skierowaną w lewo\nhistoria: projekt pochodzi z początku XX wieku i jest ściśle związany z rodziną Al Saud, która założyła królestwo w 1932 roku; flaga ma różne strony, dzięki czemu tekst czyta się poprawnie od prawej do lewej, a szabla jest skierowana w tym samym kierunku po obu stronach",
+    "meaning": "",
+    "note": "uwaga 1: jedyna flaga narodowa, której głównym wzorem jest napis\nuwaga 2: jedna z trzech flag narodowych, które różnią się po obu stronach – pozostałe to Mołdawia i Paragwaj",
+    "nationalSymbols": "palma nad dwoma skrzyżowanymi mieczami",
+    "nationalColors": "zielony, biały",
+    "independence": "23 września 1932 (zjednoczenie królestwa)",
+    "location": "Bliski Wschód, graniczący z Zatoką Perską i Morzem Czerwonym, na północ od Jemenu"
+  },
+  "am": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), niebieskim i pomarańczowym",
+    "meaning": "czerwony oznacza krew przelaną za wolność, niebieski – ormiańskie niebo i nadzieję, a pomarańczowy – ziemię i odwagę robotników, którzy ją uprawiają",
+    "note": "",
+    "nationalSymbols": "Góra Ararat, orzeł, lew",
+    "nationalColors": "czerwony, niebieski, pomarańczowy",
+    "independence": "21 września 1991 (ze Związku Radzieckiego); godne uwagi wcześniejsze daty: 321 p.n.e. (Królestwo Armenii założone za panowania dynastii Orontidów), 884 r. (Królestwo Ormiańskie odrodzone za panowania dynastii Bagratidów); 1198 (utworzenie Królestwa Cylickiego); 28 maja 1918 (ogłoszenie Demokratycznej Republiki Armenii)",
+    "location": "Azja Południowo-Zachodnia, pomiędzy Turcją (na zachodzie) a Azerbejdżanem; uwaga – Armenia postrzega siebie jako część Europy; Z geopolitycznego punktu widzenia można go sklasyfikować jako mieszczący się w Europie, na Bliskim Wschodzie lub w obu przypadkach"
+  },
+  "ag": {
+    "description": "czerwony, z odwróconym trójkątem równoramiennym pośrodku, który rozciąga się na flagę od góry do dołu; trójkąt zawiera trzy poziome pasy w kolorze czarnym (na górze), jasnoniebieskim i białym, z żółtym wschodzącym słońcem w czarnym pasku",
+    "meaning": "słońce oznacza świt nowej ery, czarne dla afrykańskiego dziedzictwa większości populacji, niebieskie dla nadziei, a czerwone dla dynamizmu ludu; kształt litery „V” trójkąta oznacza zwycięstwo; kolory żółty, niebieski i biały mają również przywoływać atrakcje turystyczne kraju, takie jak słońce, morze i piasek",
+    "note": "",
+    "nationalSymbols": "daniele",
+    "nationalColors": "czerwony, biały, niebieski, czarny, żółty",
+    "independence": "1 listopada 1981 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspy pomiędzy Morzem Karaibskim a Północnym Oceanem Atlantyckim, na wschód-południowy wschód od Puerto Rico"
+  },
+  "az": {
+    "description": "trzy równe poziome pasy w kolorze błękitu nieba (na górze), czerwieni i zieleni; pionowy półksiężyc i ośmioramienna gwiazda w kolorze białym znajdują się pośrodku czerwonego paska",
+    "meaning": "niebieski pasek oznacza tureckie dziedzictwo Azerbejdżanu, czerwony – modernizację i postęp, a zielony – islam; półksiężyc i gwiazda to insygnia tureckie; osiem punktów gwiazdowych reprezentuje osiem ludów tureckich świata",
+    "note": "",
+    "nationalSymbols": "płomienie ognia",
+    "nationalColors": "niebieski, czerwony, zielony",
+    "independence": "30 sierpnia 1991 (ogłoszony ze Związku Radzieckiego); 18 października 1991 (przyjęty przez Radę Najwyższą Azerbejdżanu)",
+    "location": "Azja Południowo-Zachodnia, granicząca z Morzem Kaspijskim, pomiędzy Iranem a Rosją, z małą częścią europejską na północ od pasma Kaukazu"
+  },
+  "at": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i czerwonym\nhistoria: jedna z najstarszych flag narodowych na świecie; według tradycji po zaciętej bitwie podczas Trzeciej Krucjaty w 1191 r. biała tunika księcia austriackiego Leopolda V została poplamiona krwią; kiedy zdjęto mu szarfę, odsłonięto biały pasek, a jako jego sztandar przyjęto kombinację kolorów czerwono-biało-czerwonego",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "orzeł, szarotka alpejska, goryczka alpejska",
+    "nationalColors": "czerwony, biały",
+    "independence": "brak oficjalnej daty niepodległości: 976 (utworzono margrabiego austriackiego); 17 września 1156 (założenie Księstwa Austrii); 6 stycznia 1453 (uznanie Arcyksięstwa Austrii); 11 sierpnia 1804 (proklamowanie Cesarstwa Austriackiego); 30 marca 1867 (utworzenie podwójnej monarchii austro-węgierskiej); 12 listopada 1918 (proklamowanie I Republiki); 27 kwietnia 1945 (proklamowano II Republikę)",
+    "location": "Europa Środkowa, północ Włoch i Słowenii"
+  },
+  "bs": {
+    "description": "trzy równe poziome paski w kolorze akwamarynu (u góry), złota i akwamarynu, z czarnym trójkątem równobocznym po lewej stronie",
+    "meaning": "kolory pasm przedstawiają złote plaże wysp otoczone akwamarynowym morzem; czarny oznacza wigor i siłę zjednoczonego narodu, a trójkąt – przedsiębiorczość i determinację ludu",
+    "note": "",
+    "nationalSymbols": "niebieski marlin, flaming, żółty kwiat czarnego bzu",
+    "nationalColors": "seledynowy, żółty, czarny",
+    "independence": "10 lipca 1973 (z Wielkiej Brytanii)",
+    "location": "łańcuch wysp na północnym Atlantyku, na południowy wschód od Florydy, na północny wschód od Kuby; uwaga – choć Bahamy nie graniczą z Morzem Karaibskim, geopolitycznie często określane są jako państwo karaibskie"
+  },
+  "bd": {
+    "description": "zielone pole z dużym czerwonym dyskiem przesuniętym nieco w lewo",
+    "meaning": "czerwony dysk reprezentuje wschodzące słońce i poświęcenie w celu osiągnięcia niepodległości; zielone pole symbolizuje bujną roślinność Bangladeszu",
+    "note": "",
+    "nationalSymbols": "Tygrys bengalski, lilia wodna",
+    "nationalColors": "zielony, czerwony",
+    "independence": "16 grudnia 1971 (z Pakistanu)",
+    "location": "Azja Południowa, granicząca z Zatoką Bengalską, pomiędzy Birmą a Indiami"
+  },
+  "bh": {
+    "description": "czerwony, z białym ząbkowanym paskiem z pięcioma białymi punktami po lewej stronie",
+    "meaning": "czerwony to tradycyjny kolor flag państw Zatoki Perskiej; pięć punktów reprezentuje pięć filarów islamu\nhistoria: do 2002 roku flaga miała osiem białych punktów, ale zmniejszono ich do pięciu, aby uniknąć pomylenia z flagą Kataru",
+    "note": "",
+    "nationalSymbols": "biały ząbkowany pas z pięcioma białymi punktami na szczycie czerwonego pola",
+    "nationalColors": "czerwony, biały",
+    "independence": "15 sierpnia 1971 (z Wielkiej Brytanii)",
+    "location": "Bliski Wschód, archipelag w Zatoce Perskiej, na wschód od Arabii Saudyjskiej"
+  },
+  "bt": {
+    "description": "podzielony po przekątnej od lewego dolnego rogu do prawego górnego rogu; górny trójkąt jest żółty, a dolny trójkąt jest ciemnopomarańczowy; pośrodku linii podziału znajduje się duży, stylizowany czarno-biały smok zwrócony w prawo; smok nazywa się Druk (Smok Gromu) i jest godłem narodowym",
+    "meaning": "biały oznacza czystość, a klejnoty w szponach smoka symbolizują bogactwo; kolory tła przedstawiają duchowe i świeckie siły w Bhutanie, pomarańczowy oznacza buddyzm, a żółty oznacza dynastię rządzącą",
+    "note": "",
+    "nationalSymbols": "mityczny smok piorunów (druk)",
+    "nationalColors": "pomarańczowy, żółty",
+    "independence": "17 grudnia 1907 (stała się zjednoczonym królestwem pod rządami swojego pierwszego dziedzicznego króla); 8 sierpnia 1949 (Traktat o przyjaźni z Indiami utrzymuje niepodległość Bhutanu)",
+    "location": "Azja Południowa, pomiędzy Chinami i Indiami"
+  },
+  "bb": {
+    "description": "trzy równe pionowe paski w kolorze ultramaryny (lewa strona), złota i ultramaryny z czarną główką trójzębu pośrodku złotego paska",
+    "meaning": "niebieski oznacza morze i niebo, a złoty plaże; głowa trójzębu reprezentuje niezależność i zerwanie z przeszłością",
+    "note": "",
+    "nationalSymbols": "Trójząb Neptuna, pelikan, czerwony rajski ptak (znany również jako „Duma Barbadosu”)",
+    "nationalColors": "niebieski, żółty, czarny",
+    "independence": "30 listopada 1966 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspa na północnym Atlantyku, na północny wschód od Wenezueli"
+  },
+  "be": {
+    "description": "trzy równe pionowe paski w kolorze czarnym (lewa strona), żółtym i czerwonym\nhistoria: projekt pionowy wzorowany był na fladze Francji; kolory pochodzą z herbu księstwa Brabancji (żółty lew z czerwonymi pazurami i językiem na czarnym polu)",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "złoty szalejący lew",
+    "nationalColors": "czerwony, czarny, żółty",
+    "independence": "4 października 1830 (rząd tymczasowy ogłosił niepodległość od Holandii); 21 lipca 1831 (król LEOPOLD I wstąpił na tron)",
+    "location": "Europa Zachodnia, granicząca z Morzem Północnym, pomiędzy Francją i Holandią"
+  },
+  "bj": {
+    "description": "dwa równe poziome paski w kolorze żółtym (na górze) i czerwonym (na dole) po prawej stronie oraz pionowy zielony pasek po lewej stronie",
+    "meaning": "zielony oznacza nadzieję i przebudzenie, żółty bogactwo, a czerwony odwagę\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "",
+    "nationalSymbols": "lampart",
+    "nationalColors": "zielony, żółty, czerwony",
+    "independence": "1 sierpnia 1960 (z Francji)",
+    "location": "Afryka Zachodnia, granicząca z Zatoką Beninu, pomiędzy Nigerią a Togo"
+  },
+  "bz": {
+    "description": "błękit królewski z wąskim czerwonym paskiem wzdłuż górnej i dolnej krawędzi; herb znajduje się na dużym białym dysku pośrodku i przedstawia tarczę otoczoną przez dwóch robotników przed mahoniowym drzewem, z mottem SUB UMBRA FLOREO (Rozkwitam w cieniu) na zwoju u dołu; Herb otacza zielona girlanda z 50 liści mahoniu",
+    "meaning": "figury, drzewo mahoniowe i girlanda nawiązują do przemysłu drzewnego, który skłonił Brytyjczyków do osiedlenia się w Belize; niebieski i czerwony to kolory dwóch głównych partii politycznych",
+    "note": "uwaga: Belize ma jedyną flagę narodową przedstawiającą ludzi; flagi dwóch brytyjskich terytoriów zamorskich, Montserrat i Brytyjskich Wysp Dziewiczych, również przedstawiają ludzi",
+    "nationalSymbols": "Tapir Bairda (duży ssak zamieszkujący lasy), tukan grubodzioby, czarna orchidea",
+    "nationalColors": "czerwony, niebieski",
+    "independence": "21 września 1981 (z Wielkiej Brytanii)",
+    "location": "Ameryka Środkowa, granicząca z Morzem Karaibskim, pomiędzy Gwatemalą a Meksykiem"
+  },
+  "bw": {
+    "description": "jasnoniebieski z poziomym czarnym paskiem z białą obwódką pośrodku",
+    "meaning": "niebieski symbolizuje wodę deszczową, a czarno-białe paski reprezentują harmonię rasową",
+    "note": "",
+    "nationalSymbols": "zebra",
+    "nationalColors": "jasnoniebieski, biały, czarny",
+    "independence": "30 września 1966 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, na północ od Republiki Południowej Afryki"
+  },
+  "ba": {
+    "description": "szeroki niebieski pionowy pas po prawej stronie z dużym żółtym trójkątem równoramiennym pośrodku flagi, u góry; reszta flagi jest niebieska, z siedmioma pięcioramiennymi białymi gwiazdami i dwiema półgwiazdami wzdłuż przeciwprostokątnej trójkąta",
+    "meaning": "trójkąt przybliża kształt kraju, a jego trzy punkty oznaczają Bośniaków, Chorwatów i Serbów; gwiazdy reprezentują Europę; kolory (biały, niebieski i żółty) są tradycyjne i również kojarzą się z neutralnością i spokojem",
+    "note": "uwaga: jedna z czterech flag narodowych odzwierciedlających kształt kraju we wzorze flagi; pozostałe to Brazylia, Erytrea i Vanuatu",
+    "nationalSymbols": "złota lilia",
+    "nationalColors": "niebieski, żółty, biały",
+    "independence": "1 marca 1992 (z Jugosławii)",
+    "location": "Europa Południowo-Wschodnia, granicząca z Morzem Adriatyckim i Chorwacją"
+  },
+  "by": {
+    "description": "czerwony poziomy pas (u góry) z zielonym poziomym pasem poniżej o szerokości połowy czerwonego paska; biały pionowy pasek po lewej stronie ma tradycyjne białoruskie wzory w kolorze czerwonym",
+    "meaning": "czerwony oznacza przeszłe walki o ucieczkę przed uciskiem, a zielony nadzieję i lasy kraju",
+    "note": "",
+    "nationalSymbols": "brak oficjalnego symbolu; tradycyjnym symbolem jest konny rycerz znany jako Pahonia (Ścigający).",
+    "nationalColors": "zielony, czerwony, biały",
+    "independence": "25 sierpnia 1991 (ze Związku Radzieckiego)",
+    "location": "Europa Wschodnia, wschód od Polski"
+  },
+  "br": {
+    "description": "zielony z dużym żółtym rombem pośrodku, przedstawiający niebieską kulę ziemską z 27 pięcioramiennymi białymi gwiazdami; kula ziemska ma biały pas równikowy z hasłem ORDEM E PROGRESSO (Porządek i Postęp)",
+    "meaning": "zielony oznacza lasy kraju, a żółty bogactwa mineralne, a diament reprezentuje kształt kraju; niebieska kula i gwiazdy przedstawiają niebo nad Rio de Janeiro rankiem 15 listopada 1889 r., w dniu ogłoszenia Republiki Brazylii; liczba gwiazd wzrosła wraz z utworzeniem nowych stanów, z 21 do 27 (po jednej dla każdego stanu i Okręgu Federalnego)\nhistoria: flaga inspirowana była flagą dawnego Cesarstwa Brazylii (1822-1889)",
+    "note": "uwaga: jedna z czterech flag narodowych odzwierciedlających kształt kraju we wzorze flagi; pozostałe to Bośnia i Hercegowina, Erytrea i Vanuatu",
+    "nationalSymbols": "Konstelacja Krzyża Południa",
+    "nationalColors": "zielony, żółty, niebieski",
+    "independence": "7 września 1822 (z Portugalii)",
+    "location": "Wschodnia Ameryka Południowa, granicząca z Oceanem Atlantyckim"
+  },
+  "bo": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (u góry), żółtym i zielonym, z herbem wyśrodkowanym na żółtym pasku",
+    "meaning": "czerwony oznacza odwagę i krew bohaterów narodowych, żółty oznacza zasoby mineralne narodu, a zielony żyzność ziemi\nhistoria: w 2009 roku dekret prezydencki nałożył obowiązek używania wiphali – kwadratowej, wielokolorowej flagi przedstawiającej grupy etniczne kraju – obok flagi narodowej",
+    "note": "uwaga: podobna do flagi Ghany, która ma dużą, pięcioramienną czarną gwiazdę pośrodku żółtego paska",
+    "nationalSymbols": "lama, kondor andyjski; dwa narodowe kwiaty: cantuta i patuju",
+    "nationalColors": "czerwony, żółty, zielony",
+    "independence": "6 sierpnia 1825 (z Hiszpanii)",
+    "location": "Środkowa Ameryka Południowa, południowy zachód od Brazylii"
+  },
+  "bf": {
+    "description": "dwa równe poziome pasy koloru czerwonego (na górze) i zielonego, z pięcioramienną żółtą gwiazdą pośrodku",
+    "meaning": "czerwony oznacza walkę kraju o niepodległość, zielony nadzieję i obfitość, a żółty bogactwa mineralne kraju\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "",
+    "nationalSymbols": "biały ogier",
+    "nationalColors": "czerwony, żółty, zielony",
+    "independence": "5 sierpnia 1960 (z Francji)",
+    "location": "Afryka Zachodnia, na północ od Ghany"
+  },
+  "bn": {
+    "description": "żółty z ukośnym białym paskiem, a drugi pod nim czarny, oba zaczynając od lewego górnego rogu; godło państwowe w kolorze czerwonym znajduje się pośrodku; motto państwa: „Zawsze służcie pod przewodnictwem Boga” widnieje żółtym pismem arabskim na półksiężycu godła; na wstążce pod półksiężycem widnieje napis „Brunei, siedziba pokoju”",
+    "meaning": "żółty symbolizuje sułtanat, a biało-czarne paski oznaczają głównych ministrów; godło przedstawia królewski parasol (monarchia), dwa skrzydła z czterema piórami (sprawiedliwość, spokój, dobrobyt i pokój), dwie wzniesione ręce (przyrzeczenie rządu do zachowania i promowania dobrobytu ludu) oraz półksiężyc islamu (religii państwowej)",
+    "note": "",
+    "nationalSymbols": "królewski parasol",
+    "nationalColors": "żółty, biały, czarny",
+    "independence": "1 stycznia 1984 (z Wielkiej Brytanii)",
+    "location": "Azja Południowo-Wschodnia, wzdłuż północnego wybrzeża wyspy Borneo, granicząca z Morzem Południowochińskim i Malezją"
+  },
+  "bi": {
+    "description": "podzielony białym ukośnym krzyżem na czerwone trójkąty (na górze i na dole) i zielone trójkąty (po każdej stronie) z białym dyskiem pośrodku, na którym znajdują się trzy sześcioramienne czerwone gwiazdy zaznaczone na zielono i ułożone w trójkątny wzór",
+    "meaning": "zielony oznacza nadzieję i optymizm, biały czystość i pokój, a czerwony krew przelaną w walce o niepodległość; trzy gwiazdy reprezentują główne grupy etniczne (Hutu, Twa, Tutsi), a także jedność, pracę i postęp",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "czerwony, biały, zielony",
+    "independence": "1 lipca 1962 (od powiernictwa ONZ pod administracją belgijską)",
+    "location": "Afryka Środkowa, na wschód od Demokratycznej Republiki Konga, na zachód od Tanzanii"
+  },
+  "bg": {
+    "description": "trzy równe poziome paski w kolorze białym (na górze), zielonym i czerwonym",
+    "meaning": "biały oznacza pokój, miłość i wolność; zielony dla bogactwa rolniczego kraju; czerwony za walkę o niepodległość i odwagę militarną\nhistoria: pierwotnie przyjęta w 1879 r. jako zmodyfikowana wersja rosyjskiej flagi trójkolorowej, wykorzystująca kolor zielony zamiast niebieskiego; herb komunistyczny był dodawany do flagi w różnych formach w latach 1948–1990, kiedy został usunięty po upadku rządu komunistycznego",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "biały, zielony, czerwony",
+    "independence": "3 marca 1878 (jako autonomiczne księstwo w obrębie Imperium Osmańskiego); 22 września 1908 (całkowita niezależność od Imperium Osmańskiego)",
+    "location": "Europa Południowo-Wschodnia, granicząca z Morzem Czarnym, pomiędzy Rumunią i Turcją"
+  },
+  "cl": {
+    "description": "dwa równe poziome paski w kolorze białym (na górze) i czerwonym; niebieski kwadrat znajduje się w lewym górnym rogu flagi, ma tę samą wysokość co biały pasek; kwadrat ma pośrodku pięcioramienną białą gwiazdę",
+    "meaning": "gwiazda reprezentuje przewodnik po postępie i honorze; niebieski oznacza niebo, biały Andy, a czerwony krew przelaną w walce o niepodległość",
+    "note": "uwaga: projekt inspirowany flagą USA",
+    "nationalSymbols": "huemul (jeleń górski), kondor andyjski",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "18 września 1810 (z Hiszpanii)",
+    "location": "Południowa Ameryka Południowa, granicząca z południowym Pacyfikiem, pomiędzy Argentyną a Peru"
+  },
+  "td": {
+    "description": "trzy równe pionowe paski w kolorze niebieskim (lewa strona), złotym i czerwonym",
+    "meaning": "łączy w sobie niebiesko-czerwone barwy francuskie (byłe kolonialne) z czerwono-żółtymi barwami panafrykańskimi; niebieski oznacza niebo, nadzieję i południe kraju; złoto dla słońca i pustyni na północy; czerwony oznacza postęp, jedność i poświęcenie",
+    "note": "uwaga: prawie identyczna z flagą Rumunii, ale z ciemniejszym odcieniem błękitu; również podobna do flag Andory i Mołdawii, które mają herb narodowy pośrodku żółtego paska; projekt wzorowany na fladze Francji",
+    "nationalSymbols": "koza (północ), lew (południe)",
+    "nationalColors": "niebieski, żółty, czerwony",
+    "independence": "11 sierpnia 1960 (z Francji)",
+    "location": "Afryka Środkowa, na południe od Libii"
+  },
+  "hr": {
+    "description": "trzy równe poziome pasy koloru czerwonego (u góry), białego i niebieskiego – barwy pansłowiańskie – z herbem Chorwacji pośrodku, który składa się z tarczy głównej (szachownica z 13 polami czerwonymi i 12 srebrnymi) oraz pięciu mniejszych tarcz tworzących koronę nad tarczą główną",
+    "meaning": "małe tarcze przedstawiają pięć historycznych regionów (od lewej do prawej): Chorwację, Dubrownik, Dalmację, Istrię i Slawonię\nhistoria: XIX-wieczna flaga Rosji była inspiracją dla barw pansłowiańskich",
+    "note": "",
+    "nationalSymbols": "czerwono-biała szachownica",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "25 czerwca 1991 (z Jugosławii); godne uwagi wcześniejsze daty: ok. 925 (utworzono Królestwo Chorwacji), 1 grudnia 1918 (utworzono Królestwo Serbów, Chorwatów i Słoweńców, później stało się Jugosławią)",
+    "location": "Europa Południowo-Wschodnia, granicząca z Morzem Adriatyckim, pomiędzy Bośnią i Hercegowiną a Słowenią"
+  },
+  "me": {
+    "description": "czerwone pole otoczone wąskim złotożółtym paskiem; pośrodku herb Czarnogóry to dwugłowy orzeł przedni z koroną powyżej; orzeł trzyma w prawym szponie złote berło, a w lewym niebieską kulę; napierśnik orła przedstawia złotego lwa na zielonym polu na tle błękitnego nieba",
+    "meaning": "orzeł symbolizuje jedność kościoła i państwa; lew jest symbolem władzy biskupiej, nawiązaniem do trzech i pół wieku, kiedy Czarnogóra była rządzona jako teokracja",
+    "note": "",
+    "nationalSymbols": "dwugłowy orzeł",
+    "nationalColors": "czerwony, złoty",
+    "independence": "3 czerwca 2006 r. (ze Związku Państw Serbii i Czarnogóry); godne uwagi wcześniejsze daty: 13 marca 1852 (utworzenie Księstwa Czarnogóry); 13 lipca 1878 (Kongres Berliński uznaje niepodległość Czarnogóry); 28 sierpnia 1910 (utworzenie Królestwa Czarnogóry)",
+    "location": "Europa Południowo-Wschodnia, pomiędzy Morzem Adriatyckim a Serbią"
+  },
+  "cy": {
+    "description": "sylwetka wyspy w kolorze miedzi jest wyśrodkowana na białym polu nad dwiema skrzyżowanymi zielonymi gałązkami oliwnymi",
+    "meaning": "gałązki oliwne symbolizują nadzieję na pokój i pojednanie między społecznością grecką i turecką",
+    "note": "uwaga 1: jedna z dwóch flag narodowych, których elementem projektu jest mapa; flaga Kosowa jest druga\nuwaga 2: flaga „Tureckiej Republiki Cypru Północnego” zachowuje białe pole flagi narodowej Cypru, ale ma wąskie, poziome czerwone paski w pobliżu górnej i dolnej krawędzi, z czerwonym półksiężycem i pięcioramienną czerwoną gwiazdą pomiędzy nimi; sztandar wzorowany jest na tureckiej fladze narodowej, ale z odwróconymi kolorami",
+    "nationalSymbols": "Muflon cypryjski (dzika owca), biały gołąb",
+    "nationalColors": "niebieski, biały",
+    "independence": "16 sierpnia 1960 (z Wielkiej Brytanii)",
+    "location": "Bliski Wschód, wyspa na Morzu Śródziemnym, na południe od Turcji; uwaga – Cypr postrzega siebie jako część Europy; Z geopolitycznego punktu widzenia można go sklasyfikować jako mieszczący się w Europie, na Bliskim Wschodzie lub w obu przypadkach"
+  },
+  "cn": {
+    "description": "czerwony z dużą pięcioramienną żółtą gwiazdą i czterema mniejszymi w lewym górnym rogu; małe gwiazdy są ułożone w pionowym łuku wokół dużej",
+    "meaning": "czerwony reprezentuje rewolucję; gwiazdy symbolizują cztery klasy społeczne – klasę robotniczą, chłopstwo, drobnomieszczaństwo miejskie i burżuazję narodową (kapitaliści) – zjednoczone pod rządami Komunistycznej Partii Chin",
+    "note": "",
+    "nationalSymbols": "smok, panda wielka",
+    "nationalColors": "czerwony, żółty",
+    "independence": "1 października 1949 (utworzenie Chińskiej Republiki Ludowej); godne uwagi wcześniejsze daty: 221 p.n.e. (zjednoczenie za panowania dynastii Qin); 1 stycznia 1912 (zastąpienie dynastii Qing przez Republikę Chińską)",
+    "location": "Azja Wschodnia, granicząca z Morzem Wschodniochińskim, Zatoką Koreańską, Morzem Żółtym i Morzem Południowochińskim, pomiędzy Koreą Północną a Wietnamem"
+  },
+  "do": {
+    "description": "wyśrodkowany biały krzyż rozciąga się do krawędzi i dzieli flagę na cztery prostokąty; górne to ultramaryna (lewa strona) i cynobrowa czerwień, a dolne to cynobrowy (lewa strona) i ultramaryna; pośrodku krzyża znajduje się herb z tarczą wspartą na gałązce laurowej i gałązce palmowej; nad tarczą niebieską wstęgą widnieje dewiza DIOS, PATRIA, LIBERTAD (Bóg, Ojczyzna, Wolność); poniżej tarczy REPUBLICA DOMINICANA na czerwonej wstążce; na tarczy Biblia jest otwarta i widać werset „Y la verdad nos hara libre” (A prawda cię wyzwoli)",
+    "meaning": "niebieski oznacza wolność, biały zbawienie, a czerwony krew bohaterów",
+    "note": "",
+    "nationalSymbols": "palmchat (ptak)",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "27 lutego 1844 (z Haiti)",
+    "location": "Karaiby, wschodnie dwie trzecie wyspy Hispaniola, pomiędzy Morzem Karaibskim a Północnym Oceanem Atlantyckim, na wschód od Haiti"
+  },
+  "dm": {
+    "description": "zielony z umieszczonym pośrodku krzyżem złożonym z trzech równych pasków w kolorze żółtym, czarnym i białym; pośrodku krzyża znajduje się czerwony dysk z papugą Sisserou otoczony 10 pięcioramiennymi zielonymi gwiazdami z żółtą obwódką",
+    "meaning": "gwiazdy reprezentują 10 jednostek administracyjnych (parafii); zieleń symbolizuje bujną roślinność wyspy; trójkolorowy krzyż przedstawia Trójcę Chrześcijańską; żółty oznacza słońce, podstawowe produkty rolne (cytrusy i banany) oraz ludność Karaibów; czarny ze względu na żyzną glebę i afrykańskie dziedzictwo większości obywateli; biały dla rzek, wodospadów i czystości aspiracji; czerwony dysk na rzecz sprawiedliwości społecznej",
+    "note": "",
+    "nationalSymbols": "papuga sisserou, kwiat drewna karaibskiego",
+    "nationalColors": "zielony, żółty, czarny, biały, czerwony",
+    "independence": "3 listopada 1978 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspa pomiędzy Morzem Karaibskim a Północnym Atlantykiem, mniej więcej w połowie drogi między Portoryko a Trynidadem i Tobago"
+  },
+  "cz": {
+    "description": "dwa równe poziome paski w kolorze białym (na górze) i czerwonym z niebieskim trójkątem równoramiennym opartym po lewej stronie",
+    "meaning": "",
+    "note": "uwaga: łączy biel i czerwień Czech z błękitem ramion Moraw; identyczna z flagą byłej Czechosłowacji",
+    "nationalSymbols": "srebrny (lub biały) dwuogoniasty lew szalejący",
+    "nationalColors": "biały, czerwony, niebieski",
+    "independence": "1 stycznia 1993 (podział Czechosłowacji na Czechy i Słowację)",
+    "location": "Europa Środkowa, pomiędzy Niemcami, Polską, Słowacją i Austrią"
+  },
+  "cd": {
+    "description": "pole błękitne, podzielone ukośnie od lewego dolnego rogu do prawego górnego rogu czerwonym paskiem otoczonym dwoma wąskimi żółtymi paskami; w lewym górnym rogu znajduje się pięcioramienna żółta gwiazda",
+    "meaning": "niebieski oznacza pokój i nadzieję, czerwony krew męczenników kraju, a żółty bogactwo i dobrobyt kraju; gwiazda symbolizuje jedność i świetlaną przyszłość kraju",
+    "note": "",
+    "nationalSymbols": "lampart",
+    "nationalColors": "błękit nieba, czerwony, żółty",
+    "independence": "30 czerwca 1960 (z Belgii)",
+    "location": "Afryka Środkowa, na północny wschód od Angoli"
+  },
+  "dk": {
+    "description": "czerwone pole z białym krzyżem sięgającym do krawędzi flagi; pionowa część krzyża jest przesunięta w lewo\nhistoria: zwana Dannebrogiem (flaga Danii) i jest jedną z najstarszych flag narodowych na świecie; pochodzenie projektu jest niejasne; jedna z legend głosi, że sztandar spadł z nieba podczas bitwy na początku XIII wieku i zainspirował armię królewską do zwycięstwa; w rzeczywistości flaga może wywodzić się ze sztandaru krucjaty",
+    "meaning": "",
+    "note": "uwaga: Finlandia, Islandia, Norwegia, Szwecja i Wyspy Owcze przyjęły później projekt z przesuniętym krzyżem",
+    "nationalSymbols": "lew, łabędź niemy",
+    "nationalColors": "czerwony, biały",
+    "independence": "ok. 965 (zjednoczony i schrystianizowany pod rządami Haralda I GORMSSONA); 5 czerwca 1849 (stała się parlamentarną monarchią konstytucyjną)",
+    "location": "Europa Północna, granicząca z Morzem Bałtyckim i Morzem Północnym, na półwyspie na północ od Niemiec (Jutlandia); obejmuje również kilka głównych wysp (Sjaelland, Fionia i Bornholm)"
+  },
+  "ec": {
+    "description": "trzy poziome pasy w kolorze żółtym (górny, o podwójnej szerokości), niebieskim i czerwonym, z herbem pośrodku flagi",
+    "meaning": "żółty oznacza słońce, zboże i bogactwo minerałów; niebieski dla nieba, morza i rzek; czerwony za krew patriotów przelaną w walce o wolność i sprawiedliwość",
+    "note": "uwaga: podobna do flagi Kolumbii, która jest krótsza i nie ma herbu",
+    "nationalSymbols": "Kondor andyjski",
+    "nationalColors": "żółty, niebieski, czerwony",
+    "independence": "24 maja 1822 (z Hiszpanii)",
+    "location": "Zachodnia Ameryka Południowa, granicząca z Oceanem Spokojnym na równiku, pomiędzy Kolumbią a Peru"
+  },
+  "ee": {
+    "description": "trzy równe poziome paski w kolorze niebieskim (na górze), czarnym i białym",
+    "meaning": "niebieski oznacza wiarę, lojalność i oddanie, a także niebo, morze i jeziora; czarny dla ziemi kraju i przeszłych cierpień narodu estońskiego; biały za dążenie do oświecenia i cnoty, a także za korę brzozy, śnieg i letnie noce rozświetlone północnym słońcem",
+    "note": "",
+    "nationalSymbols": "jaskółka płomykówka, chaber",
+    "nationalColors": "niebieski, czarny, biały",
+    "independence": "24 lutego 1918 (z Rosji Sowieckiej); 20 sierpnia 1991 (ogłoszony ze Związku Radzieckiego); 6 września 1991 (uznany przez Związek Radziecki)",
+    "location": "Europa Wschodnia, granicząca z Morzem Bałtyckim i Zatoką Fińską, pomiędzy Łotwą i Rosją"
+  },
+  "er": {
+    "description": "czerwony trójkąt równoramienny (po lewej stronie) dzieli flagę na dwa trójkąty prostokątne; górny trójkąt jest zielony, dolny jest niebieski; złoty wieniec wokół złotej gałązki oliwnej znajduje się po lewej stronie czerwonego trójkąta",
+    "meaning": "kolor zielony oznacza gospodarkę rolną kraju, czerwony krew przelaną w walce o wolność, a niebieski bogactwo morza; kształt czerwonego trójkąta naśladuje kształt kraju",
+    "note": "uwaga: jedna z czterech flag narodowych, które odzwierciedlają kształt kraju w projekcie flagi; pozostałe to Bośnia i Hercegowina, Brazylia i Vanuatu",
+    "nationalSymbols": "wielbłąd",
+    "nationalColors": "zielony, czerwony, niebieski",
+    "independence": "24 maja 1993 (z Etiopii)",
+    "location": "Afryka Wschodnia, granicząca z Morzem Czerwonym, pomiędzy Dżibuti i Sudanem"
+  },
+  "eg": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i czarnym; pośrodku białego paska znajduje się godło państwowe, złoty Orzeł Saladyna; zwrócony jest w lewą stronę, z tarczą na piersi, nad zwojem z nazwą kraju w języku arabskim",
+    "meaning": "kolory zespołu wywodzą się z flagi Wyzwolenia Arabów i przedstawiają ucisk (czarny) przezwyciężony w krwawej walce (czerwony), który ma zostać zastąpiony świetlaną przyszłością (biały)",
+    "note": "uwaga: podobna do flag Syrii (dwie zielone gwiazdy na białym pasku), Iraku (arabski napis pośrodku białego paska) i Jemenu (zwykły biały pasek)",
+    "nationalSymbols": "złoty orzeł, biały lotos",
+    "nationalColors": "czerwony, biały, czarny",
+    "independence": "28 lutego 1922 (ze statusu protektoratu Wielkiej Brytanii; rewolucja pod przewodnictwem wojska, która rozpoczęła się 23 lipca 1952 r., doprowadziła do ogłoszenia republiki 18 czerwca 1953 r. i wycofania wszystkich wojsk brytyjskich 18 czerwca 1956 r.)",
+    "location": "Afryka Północna, granicząca z Morzem Śródziemnym, pomiędzy Libią a Strefą Gazy i Morzem Czerwonym na północ od Sudanu, obejmująca azjatycki półwysep Synaj"
+  },
+  "dj": {
+    "description": "dwa równe poziome pasy w kolorze jasnoniebieskim (na górze) i jasnozielonym, z białym trójkątem równoramiennym po lewej stronie, z pięcioramienną czerwoną gwiazdą pośrodku",
+    "meaning": "niebieski oznacza morze, niebo i lud Issa Somali, zielony oznacza ziemię i lud Afar, a biały oznacza pokój; czerwona gwiazda oznacza walkę o niepodległość i jedność",
+    "note": "",
+    "nationalSymbols": "czerwona gwiazda",
+    "nationalColors": "jasnoniebieski, zielony, biały, czerwony",
+    "independence": "27 czerwca 1977 (z Francji)",
+    "location": "Afryka Wschodnia, granicząca z Zatoką Adeńską i Morzem Czerwonym, pomiędzy Erytreą i Somalią"
+  },
+  "fi": {
+    "description": "biały z niebieskim krzyżem sięgającym do krawędzi flagi; krzyż jest przesunięty w lewo w stylu Dannebroga (flagi Danii)",
+    "meaning": "niebieski oznacza tysiące jezior w kraju, a biały śnieg",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "niebieski, biały",
+    "independence": "6 grudnia 1917 (z Rosji)",
+    "location": "Europa Północna, granicząca z Morzem Bałtyckim, Zatoką Botnicką i Zatoką Fińską, pomiędzy Szwecją a Rosją"
+  },
+  "fj": {
+    "description": "jasnoniebieski z flagą Wielkiej Brytanii w lewym górnym kwadrancie i tarczą Fidżi pośrodku prawej połowy flagi; tarcza przedstawia żółtego lwa trzymającego kokos nad białym polem podzielonym na ćwiartki krzyżem św. Jerzego; cztery ćwiartki przedstawiają trzcinę cukrową, palmę, kiść bananów i białą gołębicę",
+    "meaning": "niebieski symbolizuje Ocean Spokojny",
+    "note": "",
+    "nationalSymbols": "Kajak Fidżi",
+    "nationalColors": "jasnoniebieski",
+    "independence": "10 października 1970 (z Wielkiej Brytanii)",
+    "location": "Oceania, grupa wysp na południowym Pacyfiku, około dwóch trzecich drogi z Hawajów do Nowej Zelandii"
+  },
+  "et": {
+    "description": "trzy równe poziome paski w kolorze zielonym (na górze), żółtym i czerwonym, z jasnoniebieskim dyskiem pośrodku trzech pasm; na dysku znajduje się żółty pentagram z pojedynczymi żółtymi promieniami wychodzącymi z kątów pomiędzy punktami",
+    "meaning": "zielony oznacza nadzieję i żyzność ziemi, żółty sprawiedliwość i harmonię, a czerwony poświęcenie i bohaterstwo; błękit dysku symbolizuje pokój, a pentagram reprezentuje jedność i równość narodu etiopskiego\nhistoria: emblemat pośrodku obecnej flagi został dodany w 1996 roku",
+    "note": "uwaga: Etiopia jest najstarszym niepodległym krajem w Afryce, a nowo niepodległe kraje afrykańskie często przyjmowały kolory flagi Etiopii, które później były znane jako kolory ruchu panafrykańskiego",
+    "nationalSymbols": "Lew abisyński (tradycyjny), żółty pentagram z pięcioma promieniami światła na niebieskim polu (promowany przez rząd)",
+    "nationalColors": "zielony, żółty, czerwony",
+    "independence": "najstarszy niepodległy kraj w Afryce i jeden z najstarszych na świecie, co najmniej 2000 lat; można prześledzić do Królestwa Aksumitów, które pojawiło się w I wieku p.n.e.",
+    "location": "Afryka Wschodnia, na zachód od Somalii"
+  },
+  "fr": {
+    "description": "trzy równe pionowe paski w kolorze niebieskim (lewa strona), białym i czerwonym\nhistoria: flaga znana jako le tricolore (trójkolorowa) datuje się na rok 1790 i rewolucję francuską, kiedy to tradycyjny kolor biały połączono z błękitem i czerwienią paryskiej milicji; przez pierwsze cztery lata użytkowania flagi (1790-94) odwrócono kolejność kolorów (czerwony-biało-niebieski)",
+    "meaning": "",
+    "note": "uwaga 1: służy jako oficjalna flaga wszystkich francuskich zależności\nuwaga 2: wzór i kolory są podobne do wielu innych flag, w tym Belgii, Czadu, Wybrzeża Kości Słoniowej, Irlandii, Włoch, Luksemburga i Holandii",
+    "nationalSymbols": "Kogut galijski, fleur-de-lis, Marianne (kobieca personifikacja kraju)",
+    "nationalColors": "niebieski, biały, czerwony",
+    "independence": "brak oficjalnej daty niepodległości: 486 (plemiona frankońskie zjednoczone pod panowaniem Merowingów); 10 sierpnia 843 (Francja Zachodnia powstała w wyniku podziału Cesarstwa Karolingów); 14 lipca 1789 (obalenie monarchii francuskiej); 22 września 1792 (utworzono I Republikę Francuską); 4 października 1958 (utworzenie V Republiki Francuskiej)",
+    "location": "Francja metropolitalna: Europa Zachodnia, granicząca z Zatoką Biskajską i kanałem La Manche, pomiędzy Belgią a Hiszpanią, na południowy wschód od Wielkiej Brytanii; graniczy z Morzem Śródziemnym, pomiędzy Włochami i Hiszpanią\nGujana Francuska: Północna Ameryka Południowa, granicząca z północnym Atlantykiem, pomiędzy Brazylią a Surinamem\nGwadelupa: Karaiby, wyspy pomiędzy Morzem Karaibskim a Północnym Oceanem Atlantyckim, na południowy wschód od Portoryko\nMartynika: Karaiby, wyspa pomiędzy Morzem Karaibskim a Północnym Atlantykiem, na północ od Trynidadu i Tobago\nMajotta: południowy Ocean Indyjski, wyspa na Kanale Mozambickim, mniej więcej w połowie drogi między północnym Madagaskarem a północnym Mozambikiem\nReunion: Afryka Południowa, wyspa na Oceanie Indyjskim, na wschód od Madagaskaru"
+  },
+  "ph": {
+    "description": "dwa równe poziome paski w kolorze niebieskim (na górze) i czerwonym; biały trójkąt równoboczny opiera się na lewej stronie; w środku trójkąta znajduje się żółte słońce z ośmioma promieniami, każdy podzielony na mniejsze; w każdym z rogów trójkąta znajduje się mała pięcioramienna żółta gwiazda",
+    "meaning": "niebieski oznacza pokój i sprawiedliwość, czerwony odwagę, a trójkąt równość; promienie przedstawiają pierwsze osiem prowincji, które ubiegały się o niepodległość od Hiszpanii, a gwiazdy przedstawiają trzy części kraju: Luzon, Visayas i Mindanao\nhistoria: projekt pochodzi z 1897 roku",
+    "note": "uwaga: w czasie wojny flaga jest wywieszana do góry nogami, z czerwonym paskiem u góry",
+    "nationalSymbols": "trzy gwiazdy i słońce, orzeł filipiński",
+    "nationalColors": "czerwony, biały, niebieski, żółty",
+    "independence": "4 lipca 1946 (z USA)",
+    "location": "Azja Południowo-Wschodnia, archipelag pomiędzy Morzem Filipińskim a Morzem Południowochińskim, na wschód od Wietnamu"
+  },
+  "ga": {
+    "description": "trzy równe poziome paski w kolorze zielonym (na górze), żółtym i niebieskim",
+    "meaning": "zielony oznacza lasy i zasoby naturalne kraju, złoty równik i słońce, a niebieski morze",
+    "note": "",
+    "nationalSymbols": "czarna pantera",
+    "nationalColors": "zielony, żółty, niebieski",
+    "independence": "17 sierpnia 1960 (z Francji)",
+    "location": "Afryka Środkowa, granicząca z Oceanem Atlantyckim na równiku, pomiędzy Republiką Konga a Gwineą Równikową"
+  },
+  "gm": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), niebieskim z białymi krawędziami i zielonym",
+    "meaning": "czerwony oznacza słońce i sawannę, niebieski rzekę Gambia, a zielony lasy i rolnictwo; białe paski oznaczają jedność i pokój",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "czerwony, niebieski, zielony, biały",
+    "independence": "18 lutego 1965 (z Wielkiej Brytanii)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem i Senegalem"
+  },
+  "gh": {
+    "description": "trzy równe poziome pasy w kolorze czerwonym (na górze), żółtym i zielonym, z dużą pięcioramienną czarną gwiazdą pośrodku żółtego paska",
+    "meaning": "czerwony oznacza przelaną krew za niepodległość, żółty bogactwa mineralne kraju, a zielony lasy i bogactwo naturalne; mówi się, że czarna gwiazda jest gwiazdą przewodnią afrykańskiej wolności\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "uwaga: podobna do flagi Boliwii, której herb znajduje się pośrodku żółtego paska",
+    "nationalSymbols": "czarna gwiazda, złoty orzeł",
+    "nationalColors": "czerwony, żółty, zielony, czarny",
+    "independence": "6 marca 1957 (z Wielkiej Brytanii)",
+    "location": "Afryka Zachodnia, granicząca z Zatoką Gwinejską, pomiędzy Wybrzeżem Kości Słoniowej a Togo"
+  },
+  "gr": {
+    "description": "dziewięć równych poziomych pasków koloru niebieskiego na przemian z białym; w lewym górnym rogu znajduje się niebieski kwadrat z białym krzyżem",
+    "meaning": "krzyż symbolizuje prawosławie greckie, uznaną religię; nie ma ustalonego znaczenia pasków i kolorów",
+    "note": "uwaga: greckie ustawodawstwo stanowi, że kolory flagi to cyjan i biały, ale cyjan może oznaczać „niebieski” w języku greckim, więc dokładny odcień błękitu nigdy nie został ustalony i z biegiem czasu zmieniał się od jasnego do ciemnoniebieskiego; niebieski jest teraz zwykle lazurowy",
+    "nationalSymbols": "Krzyż grecki (biały krzyż na niebieskim polu)",
+    "nationalColors": "niebieski, biały",
+    "independence": "3 lutego 1830 (z Imperium Osmańskiego)",
+    "location": "Europa Południowa, granicząca z Morzem Egejskim, Morzem Jońskim i Morzem Śródziemnym, pomiędzy Albanią i Turcją"
+  },
+  "gd": {
+    "description": "prostokąt podzielony ukośnie na żółte trójkąty (górny i dolny) oraz zielone trójkąty (lewy i prawy), z szeroką czerwoną obwódką wokół flagi; trzy pięcioramienne żółte gwiazdy znajdują się pośrodku górnej i dolnej krawędzi czerwonej granicy, z jedną większą żółtą gwiazdą na czerwonym dysku pośrodku flagi; mały żółto-czerwony strąk gałki muszkatołowej znajduje się w lewym trójkącie",
+    "meaning": "siedem gwiazd oznacza podział administracyjny kraju, przy czym gwiazda centralna symbolizuje stolicę, kościół św. Jerzego; żółty oznacza słońce i ciepło ludzi, zielony roślinność i rolnictwo, a czerwony harmonię, jedność i odwagę",
+    "note": "",
+    "nationalSymbols": "Gołąb Grenada, kwiat bugenwilli",
+    "nationalColors": "czerwony, żółty, zielony",
+    "independence": "7 lutego 1974 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspa pomiędzy Morzem Karaibskim a Oceanem Atlantyckim, na północ od Trynidadu i Tobago"
+  },
+  "gn": {
+    "description": "trzy równe pionowe paski w kolorze czerwonym (lewa strona), żółtym i zielonym",
+    "meaning": "czerwony oznacza poświęcenie ludu dla wyzwolenia i pracy; żółty dla słońca, bogactw ziemi i sprawiedliwości; zielony dla roślinności i jedności kraju\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "uwaga: kolory od lewej do prawej są odwrotnością kolorów na flagach sąsiedniego Mali i Senegalu",
+    "nationalSymbols": "słoń",
+    "nationalColors": "czerwony, żółty, zielony",
+    "independence": "2 października 1958 (z Francji)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem, pomiędzy Gwineą Bissau i Sierra Leone"
+  },
+  "gw": {
+    "description": "dwa równe poziome paski w kolorze żółtym (u góry) i zielonym oraz pionowy czerwony pasek po lewej stronie; pięcioramienna czarna gwiazda znajduje się pośrodku czerwonego paska",
+    "meaning": "żółty oznacza słońce, zielony nadzieję, czerwony krew przelaną w walce o niepodległość; czarna gwiazda oznacza jedność Afryki\nhistoria: posługuje się barwami ruchu panafrykańskiego; flaga Ghany wywarła duży wpływ na projekt",
+    "note": "",
+    "nationalSymbols": "czarna gwiazda",
+    "nationalColors": "czerwony, żółty, zielony, czarny",
+    "independence": "24 września 1973 (deklarowany); 10 września 1974 (z Portugalii)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem, pomiędzy Gwineą a Senegalem"
+  },
+  "gy": {
+    "description": "zielony z czerwonym trójkątem równoramiennym (po lewej stronie) na szczycie długiego żółtego grotu strzałki, który rozciąga się na przeciwną stronę flagi; wąska czarna ramka znajduje się pomiędzy czerwonym i żółtym, a wąska biała ramka pomiędzy żółtym i zielonym",
+    "meaning": "zielony oznacza las i liście, żółty zasoby mineralne i świetlaną przyszłość, biały rzeki, czerwony gorliwość i poświęcenie ludzi, a czarny wytrwałość",
+    "note": "",
+    "nationalSymbols": "Bażant Canje (hoacyn), jaguar, lilia wodna Victoria Regia",
+    "nationalColors": "czerwony, żółty, zielony, czarny, biały",
+    "independence": "26 maja 1966 (z Wielkiej Brytanii)",
+    "location": "Północna Ameryka Południowa, granicząca z Północnym Atlantykiem, pomiędzy Surinamem i Wenezuelą"
+  },
+  "gt": {
+    "description": "trzy równe pionowe paski w kolorze jasnoniebieskim (lewa strona), białym i jasnoniebieskim, z herbem wyśrodkowanym na białym pasku; w herbie zielono-czerwony quetzal (ptak narodowy), zwój z napisem LIBERTAD 15 DE SEPTIEMBRE DE 1821 (pierwotna data uzyskania niepodległości od Hiszpanii), para skrzyżowanych karabinów i para skrzyżowanych mieczy; wieniec laurowy otacza obiekty",
+    "meaning": "karabiny symbolizują gotowość Gwatemali do samoobrony, miecze honoru, a wieniec laurowy zwycięstwa; niebieski oznacza Ocean Spokojny i Morze Karaibskie, a biały spokój i czystość",
+    "note": "uwaga: jedna z dwóch flag narodowych przedstawiających broń palną – druga to Mozambik",
+    "nationalSymbols": "quetzal (ptak)",
+    "nationalColors": "niebieski, biały",
+    "independence": "15 września 1821 (z Hiszpanii)",
+    "location": "Ameryka Środkowa, granicząca z północnym Pacyfikiem, między Salwadorem a Meksykiem i granicząca z Zatoką Hondurasu (Morze Karaibskie) między Hondurasem a Belize"
+  },
+  "ge": {
+    "description": "biały prostokąt z centralnym czerwonym krzyżem rozciągającym się na wszystkie cztery boki flagi; w każdej z czterech ćwiartek znajduje się mały czerwony krzyż bolnur-katskhuri (znany również jako krzyż Bolnisi), który ma ramiona równej długości, nieco szersze na końcu niż w środku\nhistoria: czasami nazywana Flagą Pięciu Krzyży, wzór wzorowany jest na XIV-wiecznym sztandarze Królestwa Gruzji",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "Święty Jerzy, lew",
+    "nationalColors": "czerwony, biały",
+    "independence": "9 kwietnia 1991 (ze Związku Radzieckiego); godna uwagi wcześniejsza data: 1008 r. (zjednoczenie Gruzji pod rządami króla BAGRATA III)",
+    "location": "Azja Południowo-Zachodnia, granicząca z Morzem Czarnym, pomiędzy Turcją a Rosją, z fragmentem ziemi na północ od Kaukazu sięgającym do Europy; uwaga – Gruzja postrzega siebie jako część Europy; Z geopolitycznego punktu widzenia można go sklasyfikować jako mieszczący się w Europie, na Bliskim Wschodzie lub w obu przypadkach"
+  },
+  "ht": {
+    "description": "dwa równe poziome paski w kolorze niebieskim (na górze) i czerwonym; pośrodku biały prostokąt widnieje herb, na którym znajduje się palma otoczona flagami i dwie armaty nad zwojem z hasłem L'UNION FAIT LA FORCE (Unia czyni siłę)",
+    "meaning": "kolory pochodzą z flagi francuskiej i reprezentują związek grup etnicznych",
+    "note": "",
+    "nationalSymbols": "Trogon hiszpański (ptak), kwiat hibiskusa",
+    "nationalColors": "niebieski, czerwony",
+    "independence": "1 stycznia 1804 (z Francji)",
+    "location": "Karaiby, zachodnia jedna trzecia wyspy Hispaniola, pomiędzy Morzem Karaibskim a Północnym Oceanem Atlantyckim, na zachód od Republiki Dominikany"
+  },
+  "gq": {
+    "description": "trzy równe poziome pasy w kolorze zielonym (u góry), białym i czerwonym, z niebieskim trójkątem równoramiennym opartym po lewej stronie i herbem wyśrodkowanym na białym pasku; w herbie znajduje się sześć sześcioramiennych żółtych gwiazd (reprezentujących kontynent i pięć przybrzeżnych wysp) nad szarą tarczą z drzewem z jedwabiu bawełnianego; poniżej zwój z hasłem UNIDAD, PAZ, JUSTICIA (Jedność, Pokój, Sprawiedliwość)",
+    "meaning": "zielony oznacza dżunglę i zasoby naturalne, niebieski morze, biały pokój, a czerwony walkę o niepodległość",
+    "note": "",
+    "nationalSymbols": "jedwabne drzewo bawełniane",
+    "nationalColors": "zielony, biały, czerwony, niebieski",
+    "independence": "12 października 1968 (z Hiszpanii)",
+    "location": "Afryka Środkowa, granicząca z Zatoką Biafra, pomiędzy Kamerunem a Gabonem"
+  },
+  "es": {
+    "description": "trzy poziome pasy w kolorze czerwonym (u góry), żółtym (podwójnej szerokości) i czerwonym, z herbem narodowym po lewej stronie żółtego paska; herb przedstawia emblematy dawnych królestw tego obszaru (zgodnie z ruchem wskazówek zegara, od lewego górnego rogu: Kastylia, Leon, Nawarra i Aragonia), które również miały kolory czerwony i żółty; stylizowany granat na dole tarczy przedstawia Grenadę; dwie kolumny przedstawiają Słupy Herkulesa, które są cyplami (Gibraltar i Ceuta) w Cieśninie Gibraltarskiej; na czerwonym zwoju widnieje cesarskie motto „Plus Ultra” (dalej), odnoszące się do ziem hiszpańskich poza Europą",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "Filary Herkulesa",
+    "nationalColors": "czerwony, żółty",
+    "independence": "1492",
+    "location": "Europa Południowo-Zachodnia, granicząca z Morzem Śródziemnym, Północnym Oceanem Atlantyckim, Zatoką Biskajską i Pirenejami; na południowy zachód od Francji"
+  },
+  "nl": {
+    "description": "trzy równe poziome pasy w kolorze jasnoczerwonym (na górze), białym i kobaltowym\nhistoria: kolory pochodzą od WILLIAMA I, księcia Orańskiego; pierwotnie górny pasek był pomarańczowy, ale z czasem barwnik zmienił kolor na czerwony, więc ostatecznie kolor czerwony stał się trwałym kolorem",
+    "meaning": "",
+    "note": "uwaga: podobna do flagi Luksemburga, która ma jaśniejszy błękit i jest szersza",
+    "nationalSymbols": "lew, stokrotka",
+    "nationalColors": "pomarańczowy",
+    "independence": "26 lipca 1581",
+    "location": "Europa Zachodnia, granicząca z Morzem Północnym, pomiędzy Belgią i Niemcami"
+  },
+  "hn": {
+    "description": "trzy równe poziome pasy błękitu cerulejskiego (na górze), białego i błękitu cerulejskiego, z pięcioma pięcioramiennymi gwiazdami cerulejskimi ułożonymi we wzór „X” i wyśrodkowanymi w białym pasie",
+    "meaning": "gwiazdy reprezentują członków byłej Federalnej Republiki Ameryki Środkowej: Kostarykę, Salwador, Gwatemalę, Honduras i Nikaraguę; niebieski oznacza Ocean Spokojny i Morze Karaibskie, a biały oznacza ziemię oraz pokój i dobrobyt ludzi",
+    "note": "uwaga: podobna do flagi Salwadoru, która ma okrągły emblemat otoczony słowami REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; również podobna do flagi Nikaragui, która ma trójkąt z napisami REPUBLICA DE NICARAGUA powyżej i AMERICA CENTRAL poniżej",
+    "nationalSymbols": "ara szkarłatna, jeleń bielik",
+    "nationalColors": "niebieski, biały",
+    "independence": "15 września 1821 (z Hiszpanii)",
+    "location": "Ameryka Środkowa, granicząca z Morzem Karaibskim, pomiędzy Gwatemalą i Nikaraguą oraz granicząca z Zatoką Fonseca (północny Ocean Spokojny), pomiędzy Salwadorem i Nikaraguą"
+  },
+  "iq": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i czarnym; Takbir (arabskie wyrażenie oznaczające „Bóg jest wielki”) zapisany zielonym pismem arabskim znajduje się pośrodku białego paska",
+    "meaning": "kolory pochodzą z flagi Wyzwolenia Arabów i symbolizują ucisk (czarny) pokonany w krwawej walce (czerwony), który ma zostać zastąpiony świetlaną przyszłością (biały)\nhistoria: Rada Reprezentantów zatwierdziła tę flagę w 2008 r. jako kompromisowy zamiennik flagi z czasów partii Baas SADDAM",
+    "note": "uwaga: podobna do flag Syrii (dwie gwiazdki, ale bez napisu), Jemenu (zwykły biały pasek) i Egiptu (złoty Orzeł Saladyna pośrodku białego paska)",
+    "nationalSymbols": "złoty orzeł",
+    "nationalColors": "czerwony, biały, czarny",
+    "independence": "3 października 1932 (z mandatu Ligi Narodów pod administracją brytyjską)",
+    "location": "Bliski Wschód, graniczący z Zatoką Perską, pomiędzy Iranem i Kuwejtem"
+  },
+  "ir": {
+    "description": "trzy równe poziome paski w kolorze zielonym (na górze), białym i czerwonym; pośrodku białego paska znajduje się czerwone godło państwowe, stylizacja słowa Allah w kształcie tulipana (symbol męczeństwa); ALLAH AKBAR (Bóg jest Wielki) białym pismem arabskim powtórzono 11 razy wzdłuż dolnej krawędzi zielonego paska i 11 razy wzdłuż górnej krawędzi czerwonego paska",
+    "meaning": "zielony to kolor islamu, który reprezentuje także wzrost, biały oznacza uczciwość i pokój, a czerwony oznacza odwagę i męczeństwo",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "zielony, biały, czerwony",
+    "independence": "1 kwietnia 1979 (proklamowano Islamską Republikę Iranu); godne uwagi wcześniejsze daty: ok. 550 p.n.e. (Założenie imperium Achemenidów lub perskiego); 1501 r. (Iran zjednoczony pod rządami dynastii Safawidów); 1794 (początek dynastii Qajar); 12 grudnia 1925 (współczesny Iran założony za panowania dynastii PAHLAVI)",
+    "location": "Bliski Wschód, graniczący z Zatoką Omańską, Zatoką Perską i Morzem Kaspijskim, między Irakiem a Pakistanem"
+  },
+  "id": {
+    "description": "dwa równe poziome paski koloru czerwonego (na górze) i białego",
+    "meaning": "czerwony oznacza odwagę, a biały czystość\nhistoria: kolory wywodzą się ze sztandaru imperium Majapahit z XIII-XV wieku",
+    "note": "uwaga: podobna do flag Monako, która jest krótsza, i Polski, która jest biała (na górze) i czerwona",
+    "nationalSymbols": "garuda (mityczny ptak)",
+    "nationalColors": "czerwony, biały",
+    "independence": "17 sierpnia 1945 (ogłoszono niepodległość od Holandii)",
+    "location": "Azja Południowo-Wschodnia, archipelag pomiędzy Oceanem Indyjskim a Pacyfikiem"
+  },
+  "in": {
+    "description": "trzy równe poziome pasma szafranu (na górze), białego i zielonego, z niebieską czakrą (24-szprychowe koło) pośrodku białego paska",
+    "meaning": "szafran oznacza odwagę, poświęcenie i ducha wyrzeczenia; biały dla czystości i prawdy; zielony dla wiary i płodności; czakra symbolizuje koło życia w ruchu i śmierć w stagnacji",
+    "note": "uwaga: podobna do flagi Nigru, która ma mały pomarańczowy dysk pośrodku białego paska",
+    "nationalSymbols": "Lwia Stolica Ashoki, przedstawiająca cztery lwy azjatyckie stojące tyłem do siebie i osadzone na okrągłym liczydle (oficjalne); Tygrys bengalski i kwiat lotosu (tradycyjny)",
+    "nationalColors": "szafran, biały, zielony",
+    "independence": "15 sierpnia 1947 (z Wielkiej Brytanii)",
+    "location": "Azja Południowa, granicząca z Morzem Arabskim i Zatoką Bengalską, pomiędzy Birmą a Pakistanem"
+  },
+  "ie": {
+    "description": "trzy równe pionowe paski koloru zielonego (lewa strona), białego i pomarańczowego",
+    "meaning": "kolory flagi nie mają oficjalnego znaczenia, ale powszechna interpretacja jest taka, że zielony oznacza irlandzką tradycję nacjonalistyczną, pomarańczowy tradycję pomarańczową (mniejszość zwolennicy Wilhelma Orańskiego), a biały oznacza pokój lub trwały rozejm między zielenią a pomarańczą",
+    "note": "uwaga: podobna do flagi Wybrzeża Kości Słoniowej, która jest krótsza i ma odwrócone kolory; również podobna do flagi Włoch, która jest krótsza i ma kolor czerwony zamiast pomarańczowego",
+    "nationalSymbols": "harfa, koniczyna (koniczyna)",
+    "nationalColors": "niebieski, zielony",
+    "independence": "6 grudnia 1921 (z Wielkiej Brytanii); 6 grudnia 1922 (utworzono Wolne Państwo Irlandzkie); 18 kwietnia 1949 (włączona ustawa Republiki Irlandii)",
+    "location": "Europa Zachodnia, zajmująca pięć szóstych wyspy Irlandii na północnym Oceanie Atlantyckim, na zachód od Wielkiej Brytanii"
+  },
+  "ye": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i czarnym",
+    "meaning": "kolory zespołu pochodzą z flagi Wyzwolenia Arabów i przedstawiają ucisk (czarny) przezwyciężony w krwawej walce (czerwony), który ma zostać zastąpiony świetlaną przyszłością (biały)",
+    "note": "uwaga: podobna do flag Iraku (arabski napis pośrodku białego paska) i Egiptu (heraldyczny orzeł pośrodku białego paska)",
+    "nationalSymbols": "złoty orzeł",
+    "nationalColors": "czerwony, biały, czarny",
+    "independence": "22 maja 1990 r. (Republika Jemenu utworzona z połączenia Jemeńskiej Republiki Arabskiej [Jemen (Sanaa) lub Jemen Północny] i Jemenskiej Republiki Ludowo-Demokratycznej [Jemen (Aden) lub Jemen Południowy]); godne uwagi wcześniejsze daty: 1 listopada 1918 r. (Jemen Północny niezależny od Imperium Osmańskiego), 27 września 1962 r. (Jemen Północny staje się republiką), 30 listopada 1967 r. (Jemen Południowy niezależny od Wielkiej Brytanii)",
+    "location": "Bliski Wschód, graniczący z Morzem Arabskim, Zatoką Adeńską i Morzem Czerwonym, pomiędzy Omanem a Arabią Saudyjską"
+  },
+  "is": {
+    "description": "niebieski z czerwonym krzyżem zaznaczonym na biało rozciągającym się do krawędzi flagi; krzyż jest przesunięty w lewo w stylu Dannebroga (flagi Danii)",
+    "meaning": "czerwony oznacza pożary wulkanów na wyspie, biały pola śniegu i lodu, a niebieski ocean",
+    "note": "",
+    "nationalSymbols": "żyrfalkon",
+    "nationalColors": "niebieski, biały, czerwony",
+    "independence": "1 grudnia 1918 (stała się suwerennym państwem pod Koroną Duńską); 17 czerwca 1944 (z Danii; urodziny Jona SIGURDSSONA, przywódcy XIX-wiecznego islandzkiego ruchu niepodległościowego)",
+    "location": "Europa Północna, wyspa pomiędzy Morzem Grenlandzkim a Północnym Atlantykiem, na północny zachód od Wielkiej Brytanii"
+  },
+  "il": {
+    "description": "biały z niebieskim heksagramem (sześcioramienną gwiazdą liniową) znanym jako Magen David (Gwiazda Dawida lub Tarcza Dawida) pośrodku pomiędzy dwoma równymi poziomymi niebieskimi paskami w pobliżu górnej i dolnej krawędzi flagi\nhistoria: wzór nawiązuje do tradycyjnego żydowskiego szala modlitewnego (talit), który jest biały w niebieskie paski; heksagram jako symbol żydowski sięga czasów średniowiecza",
+    "meaning": "",
+    "note": "uwaga: proklamacja izraelskiej flagi stwierdza, że kolory flagi są błękitne i białe, ale dokładny odcień błękitu nigdy nie został ustalony i może się różnić",
+    "nationalSymbols": "Gwiazda Dawida (Magen David), menora (siedmioramienny świecznik)",
+    "nationalColors": "niebieski, biały",
+    "independence": "14 maja 1948 (w następstwie mandatu Ligi Narodów pod administracją brytyjską)",
+    "location": "Bliski Wschód, graniczący z Morzem Śródziemnym, pomiędzy Egiptem a Libanem"
+  },
+  "jp": {
+    "description": "biały z dużym czerwonym dyskiem, który symbolizuje słońce bez promieni, pośrodku\nhistoria: obecna flaga została przyjęta w 1854 r., ale flaga słoneczna jest używana w Japonii co najmniej od 1184 r.; słońce od dawna jest symbolem narodowym: według tradycji bogini słońca Amaterasu założyła kraj w VII wieku p.n.e.",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "czerwony dysk słoneczny, chryzantema",
+    "nationalColors": "czerwony, biały",
+    "independence": "3 maja 1947 (aktualna konstytucja przyjęta jako poprawka do Konstytucji Meiji); godne uwagi wcześniejsze daty: 11 lutego 660 r. p.n.e. (mitologiczna data założenia narodu przez cesarza JIMMU); 29 listopada 1890 (Konstytucja Meiji przewiduje monarchię konstytucyjną)",
+    "location": "Azja Wschodnia, łańcuch wysp pomiędzy Północnym Pacyfikiem a Morzem Japońskim, na wschód od Półwyspu Koreańskiego"
+  },
+  "jm": {
+    "description": "ukośny żółty krzyż dzieli flagę na cztery trójkąty, dwa zielone (górny i dolny) i dwa czarne (lewy i prawy)",
+    "meaning": "zielony oznacza nadzieję, roślinność i rolnictwo; czarny dla trudności do pokonania i stawienia im czoła; i żółty dla słońca i zasobów naturalnych",
+    "note": "",
+    "nationalSymbols": "zielono-czarny streamertail (ptak), drzewo gwajakowe (Guiacum officinale)",
+    "nationalColors": "zielony, żółty, czarny",
+    "independence": "6 sierpnia 1962 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspa na Morzu Karaibskim, na południe od Kuby"
+  },
+  "kh": {
+    "description": "trzy poziome paski w kolorze niebieskim (na górze), czerwonym (o podwójnej szerokości) i niebieskim; stylizowana biała świątynia z trzema wieżami zaznaczona na czarno znajduje się pośrodku czerwonego paska, przedstawiając Angkor Wat",
+    "meaning": "czerwony i niebieski to tradycyjne kolory Kambodży",
+    "note": "uwaga: tylko flaga narodowa może w widoczny sposób uwzględniać rozpoznawalny budynek w swoim projekcie; Afganistan, San Marino, Portugalia i Hiszpania przedstawiają na fladze małe, typowe budynki jako część swoich herbów",
+    "nationalSymbols": "Świątynia Angkor Wat, kouprey (dziki wół)",
+    "nationalColors": "czerwony, niebieski",
+    "independence": "9 listopada 1953 (z Francji)",
+    "location": "Azja Południowo-Wschodnia, granicząca z Zatoką Tajlandzką, pomiędzy Tajlandią, Wietnamem i Laosem"
+  },
+  "qa": {
+    "description": "bordowy z szerokim, ząbkowanym białym paskiem po lewej stronie",
+    "meaning": "bordowy symbolizuje krew przelaną w wojnach w Katarze, a biały pokój; dziewięcioramienna ząbkowana krawędź nawiązuje do statusu Kataru jako dziewiątego członka „pojednanych emiratów” po traktacie katarsko-brytyjskim z 1916 r. – pozostałych ośmiu członków to Bahrajn i siedmiu tworzących Zjednoczone Emiraty Arabskie",
+    "note": "",
+    "nationalSymbols": "biały ząbkowany pas z dziewięcioma białymi punktami na szczycie bordowego pola",
+    "nationalColors": "bordowy, biały",
+    "independence": "3 września 1971 (z Wielkiej Brytanii)",
+    "location": "Bliski Wschód, półwysep graniczący z Zatoką Perską i Arabią Saudyjską"
+  },
+  "jo": {
+    "description": "trzy równe poziome paski w kolorze czarnym (na górze), białym i zielonym; po lewej stronie znajduje się czerwony trójkąt równoramienny z małą białą siedmioramienną gwiazdą pośrodku",
+    "meaning": "czarny oznacza kalifat Abbasydów, biały kalifat Ummajjadów, a zielony kalifat Fatymidów; trójkąt oznacza Wielką Rewoltę Arabską z 1916 r., a punkty gwiazdy przedstawiają siedem wersetów początkowej Sury (Al-Fatiha) Koranu, a także wiarę w Jedynego Boga, ludzkość, ducha narodowego, pokorę, sprawiedliwość społeczną, cnotę i aspiracje\nHistoria: projekt wzorowany jest na fladze powstania arabskiego z I wojny światowej",
+    "note": "",
+    "nationalSymbols": "orzeł",
+    "nationalColors": "czarny, biały, zielony, czerwony",
+    "independence": "25 maja 1946 (z mandatu Ligi Narodów pod administracją brytyjską)",
+    "location": "Bliski Wschód, na północny zachód od Arabii Saudyjskiej, pomiędzy Izraelem (na zachodzie) a Irakiem"
+  },
+  "ca": {
+    "description": "dwa pionowe paski koloru czerwonego po każdej stronie, z białym kwadratem pomiędzy nimi; duży 11-ramienny liść klonu czerwonego znajduje się pośrodku białego kwadratu",
+    "meaning": "liść klonu jest symbolem narodowym",
+    "note": "",
+    "nationalSymbols": "liść klonu, bóbr",
+    "nationalColors": "czerwony, biały",
+    "independence": "1 lipca 1867 (unia kolonii brytyjskich w Ameryce Północnej); 11 grudnia 1931 (uznany przez Wielką Brytanię zgodnie ze Statutem Westminsterskim)",
+    "location": "Północna Ameryka Północna, granicząca z Północnym Atlantykiem na wschodzie, Północnym Pacyfikiem na zachodzie i Oceanem Arktycznym na północy, na północ od sąsiadujących Stanów Zjednoczonych"
+  },
+  "kz": {
+    "description": "złote słońce z 32 promieniami nad szybującym złotym orłem stepowym, oba wyśrodkowane na błękitnym tle; po lewej stronie widnieje złoty wzór narodowy zwany koshkar-muiz (rogi barana).",
+    "meaning": "kolor niebieski ma znaczenie religijne dla ludów tureckich i symbolizuje jedność kulturową i etniczną, a także niebo i wodę; słońce oznacza bogactwo i pełnię, a jego promienie mają kształt ziarna; orzeł od wieków pojawia się na flagach plemiennych Kazachstanu i reprezentuje wolność, władzę i lot w przyszłość",
+    "note": "",
+    "nationalSymbols": "złoty orzeł",
+    "nationalColors": "niebieski, żółty",
+    "independence": "16 grudnia 1991 (ze Związku Radzieckiego)",
+    "location": "Azja Środkowa, północny zachód od Chin; niewielka część na zachód od rzeki Ural (Oral) w najbardziej wysuniętej na wschód Europie"
+  },
+  "ke": {
+    "description": "trzy równe poziome paski w kolorze czarnym (na górze), czerwonym i zielonym; czerwony pasek ma białą obwódkę; pośrodku znajduje się duża tarcza wojownika Masajów zakrywająca skrzyżowane włócznie",
+    "meaning": "czarny oznacza większość populacji, czerwony krew przelaną w walce o wolność, zielony bogactwo naturalne, a biały pokój; tarcza i skrzyżowane włócznie symbolizują obronę wolności",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "czarny, czerwony, zielony, biały",
+    "independence": "12 grudnia 1963 (z Wielkiej Brytanii)",
+    "location": "Afryka Wschodnia, granicząca z Oceanem Indyjskim, pomiędzy Somalią a Tanzanią"
+  },
+  "ki": {
+    "description": "górna połowa jest czerwona z żółtą fregatą lecącą nad żółtym wschodzącym słońcem, a dolna połowa jest niebieska z trzema falistymi poziomymi białymi paskami, które reprezentują Ocean Spokojny",
+    "meaning": "białe paski przedstawiają grupy wysp Gilbert, Line i Phoenix; 17 promieni słońca reprezentuje 16 Wysp Gilberta i Banaba (dawniej Ocean Island); fregata symbolizuje władzę i wolność",
+    "note": "",
+    "nationalSymbols": "fregata",
+    "nationalColors": "czerwony, biały, niebieski, żółty",
+    "independence": "12 lipca 1979 (z Wielkiej Brytanii)",
+    "location": "Oceania, grupa 32 atoli koralowych i jedna wyniesiona wyspa koralowa na Oceanie Spokojnym, położona na równiku; stolica Tarawa znajduje się mniej więcej w połowie drogi między Hawajami a Australią"
+  },
+  "co": {
+    "description": "trzy poziome paski w kolorze żółtym (górny, o podwójnej szerokości), niebieskim i czerwonym",
+    "meaning": "istnieją różne interpretacje kolorów; jeden ma kolor żółty dla złota na ziemi kolumbijskiej, niebieski dla morza i czerwony dla krwi przelanej w walce o wolność; inny opisuje je jako reprezentujące suwerenność i sprawiedliwość (żółty), lojalność i czujność (niebieski) oraz męstwo i hojność (czerwony); inny ma kolory oznaczające wolność, równość i braterstwo",
+    "note": "uwaga: podobna do flagi Ekwadoru, która jest szersza i ma herb Ekwadoru pośrodku",
+    "nationalSymbols": "Kondor andyjski",
+    "nationalColors": "żółty, niebieski, czerwony",
+    "independence": "20 lipca 1810 (z Hiszpanii)",
+    "location": "Północna Ameryka Południowa, granicząca z Morzem Karaibskim, między Panamą i Wenezuelą oraz granicząca z północnym Oceanem Spokojnym, między Ekwadorem a Panamą"
+  },
+  "km": {
+    "description": "cztery równe poziome paski w kolorze żółtym (na górze), białym, czerwonym i niebieskim, z zielonym trójkątem równoramiennym po lewej stronie; pionowy biały półksiężyc ma środek w trójkącie, a cztery pięcioramienne białe gwiazdy są umieszczone pionowo w linii pomiędzy punktami półksiężyca",
+    "meaning": "poziome pasy i gwiazdy przedstawiają cztery główne wyspy archipelagu – Mwali, N'gazidja, Ndzuwani i Mahore (Majotta jest departamentem Francji, ale roszczenia Komorów)",
+    "note": "uwaga: półksiężyc, gwiazdy i kolor zielony to tradycyjne symbole islamu",
+    "nationalSymbols": "cztery pięcioramienne gwiazdy i półksiężyc",
+    "nationalColors": "zielony, biały",
+    "independence": "6 lipca 1975 (z Francji)",
+    "location": "Afryka Południowa, grupa wysp u północnego ujścia Kanału Mozambickiego, około dwóch trzecich drogi między północnym Madagaskarem a północnym Mozambikiem"
+  },
+  "kg": {
+    "description": "czerwone pole z żółtym słońcem pośrodku, które ma 40 promieni biegnących w kierunku przeciwnym do ruchu wskazówek zegara z przodu flagi i zgodnie z ruchem wskazówek zegara na rewersie; pośrodku słońca znajduje się czerwony pierścień przecięty dwoma zestawami trzech linii w stylizowanym przedstawieniu tunduka, okrągłego otworu na szczycie tradycyjnej kirgiskiej jurty",
+    "meaning": "promienie słoneczne reprezentują plemiona kirgiskie; czerwony oznacza odwagę i męstwo, a słońce pokój i bogactwo",
+    "note": "",
+    "nationalSymbols": "biały sokół",
+    "nationalColors": "czerwony, żółty",
+    "independence": "31 sierpnia 1991 (ze Związku Radzieckiego)",
+    "location": "Azja Środkowa, na zachód od Chin, na południe od Kazachstanu"
+  },
+  "cg": {
+    "description": "oddzielony ukośnie od lewego dolnego rogu szerokim żółtym pasem; górny trójkąt (lewa strona) jest zielony, a dolny trójkąt jest czerwony",
+    "meaning": "zielony oznacza rolnictwo i lasy, a żółty przyjaźń i szlachtę ludową; znaczenie koloru czerwonego nie jest odnotowywane, ale kojarzone jest z walką o niepodległość",
+    "note": "historia: wykorzystuje barwy ruchu panafrykańskiego",
+    "nationalSymbols": "lew, słoń",
+    "nationalColors": "zielony, żółty, czerwony",
+    "independence": "15 sierpnia 1960 (z Francji)",
+    "location": "Afryka Środkowa, granicząca z południowym Atlantykiem, pomiędzy Angolą i Gabonem"
+  },
+  "cu": {
+    "description": "pięć równych poziomych pasów koloru niebieskiego (góra, środek i dół) na przemian z białym; czerwony trójkąt równoboczny oparty po lewej stronie ma pięcioramienną białą gwiazdę pośrodku",
+    "meaning": "niebieskie paski oznaczają trzy dawne departamenty wysp: środkowy, zachodni i orientalny; białe opaski za czystość ideału niepodległości; trójkąt wolności, równości i braterstwa; czerwony kolor krwi przelanej w walce o niepodległość; biała gwiazda, zwana „La Estrella Solitaria” (Samotna Gwiazda), oświetla drogę do wolności i została zainspirowana flagą stanową Teksasu",
+    "note": "uwaga: wzór podobny do flagi portorykańskiej, z odwróconymi kolorami pasków i trójkąta",
+    "nationalSymbols": "palma królewska",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "20 maja 1902 (od administracji USA); 10 grudnia 1898 (z Hiszpanii); nieuznane przez rząd kubański za dni niepodległości",
+    "location": "Karaiby, wyspa pomiędzy Morzem Karaibskim a Północnym Atlantykiem, 150 km na południe od Key West na Florydzie"
+  },
+  "kr": {
+    "description": "biały z czerwono-niebieskim symbolem yin-yang pośrodku; czarny trygram (kwae) ze starożytnej I Ching (Księgi Przemian) znajduje się w każdym rogu białego pola",
+    "meaning": "flaga nazywa się Taegukki; biały to tradycyjny koreański kolor, reprezentujący pokój i czystość; niebieski oznacza negatywne siły kosmiczne yin, a czerwony przeciwne pozytywne siły yang; każdy trygram reprezentuje jeden z uniwersalnych elementów, które razem wyrażają zasadę ruchu i harmonii",
+    "note": "",
+    "nationalSymbols": "taegeuk (symbol yin-yang), róża szaronu (hibiskus syriacus), tygrys syberyjski",
+    "nationalColors": "czerwony, biały, niebieski, czarny",
+    "independence": "15 sierpnia 1945 (z Japonii)",
+    "location": "Azja Wschodnia, południowa połowa Półwyspu Koreańskiego granicząca z Morzem Japońskim i Morzem Żółtym"
+  },
+  "kp": {
+    "description": "trzy poziome paski w kolorze niebieskim (na górze), czerwonym (o potrójnej szerokości) i niebieskim; czerwony pasek ma białą obwódkę; po lewej stronie czerwonego paska znajduje się biały dysk z czerwoną pięcioramienną gwiazdą",
+    "meaning": "czerwony pasek symbolizuje rewolucyjne tradycje, biały czystość, siłę i godność; niebieski oznacza suwerenność, pokój i przyjaźń; czerwona gwiazda reprezentuje socjalizm",
+    "note": "",
+    "nationalSymbols": "czerwona gwiazda, chollima (skrzydlaty koń)",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "15 sierpnia 1945 (z Japonii)",
+    "location": "Azja Wschodnia, północna połowa Półwyspu Koreańskiego granicząca z Zatoką Koreańską i Morzem Japońskim, pomiędzy Chinami i Koreą Południową"
+  },
+  "cr": {
+    "description": "pięć poziomych pasów w kolorze niebieskim (u góry), białym, czerwonym (o podwójnej szerokości), białym i niebieskim, z herbem na białym eliptycznym dysku umieszczonym po lewej stronie czerwonego paska",
+    "meaning": "mówi się, że błękit oznacza niebo, możliwości i wytrwałość; biały dla pokoju, szczęścia i mądrości; i czerwony za krew przelaną za wolność, a także hojność i energię Kostarykańczyków\nhistoria: Kostaryka zachowała wcześniejszą niebiesko-biało-niebieską flagę Ameryki Środkowej aż do 1848 roku, kiedy to w odpowiedzi na rewolucje w Europie zdecydowano się włączyć barwy francuskie poprzez dodanie centralnego czerwonego paska",
+    "note": "uwaga: nieco przypomina flagę Korei Północnej; podobna do flagi Tajlandii, ale z odwróconymi kolorami niebieskim i czerwonym",
+    "nationalSymbols": "yiguirro (drozd w kolorze gliny)",
+    "nationalColors": "niebieski, biały, czerwony",
+    "independence": "15 września 1821 (z Hiszpanii)",
+    "location": "Ameryka Środkowa, granicząca zarówno z Morzem Karaibskim, jak i Północnym Pacyfikiem, pomiędzy Nikaraguą a Panamą"
+  },
+  "kw": {
+    "description": "trzy równe poziome pasy w kolorze zielonym (na górze), białym i czerwonym, z czarnym trapezem po lewej stronie",
+    "meaning": "zielony oznacza żyzne pola, biały czystość, czerwony krew na kuwejckich mieczach, a czarny pokonanie wroga\nHistoria: kolory i wzornictwo inspirowane są flagą powstania arabskiego z I wojny światowej",
+    "note": "",
+    "nationalSymbols": "złoty sokół",
+    "nationalColors": "zielony, biały, czerwony, czarny",
+    "independence": "19 czerwca 1961 (z Wielkiej Brytanii)",
+    "location": "Bliski Wschód, graniczący z Zatoką Perską, pomiędzy Irakiem a Arabią Saudyjską"
+  },
+  "ls": {
+    "description": "trzy poziome paski w kolorze niebieskim (u góry), białym i zielonym; pośrodku białego paska znajduje się czarny mokorotlo, tradycyjny słomkowy kapelusz Basotho i symbol narodowy",
+    "meaning": "niebieski oznacza deszcz, biały pokój, a zielony dobrobyt\nhistoria: przeprojektowana flaga została wprowadzona w 2006 roku z okazji 40-lecia niepodległości",
+    "note": "",
+    "nationalSymbols": "mokorotio (kapelusz Basotho)",
+    "nationalColors": "niebieski, biały, zielony, czarny",
+    "independence": "4 października 1966 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, enklawa Republiki Południowej Afryki"
+  },
+  "la": {
+    "description": "trzy poziome paski w kolorze czerwonym (na górze), niebieskim (o podwójnej szerokości) i czerwonym, z dużym białym dyskiem pośrodku niebieskiego paska",
+    "meaning": "czerwony oznacza krew przelaną za wyzwolenie, a niebieski rzekę Mekong i dobrobyt; biały dysk przedstawia pełnię księżyca nad rzeką Mekong i jedność narodu w ramach Laotańskiej Partii Ludowo-Rewolucyjnej, a także świetlaną przyszłość kraju",
+    "note": "",
+    "nationalSymbols": "słoń",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "19 lipca 1949 (z Francji); 22 października 1953 (Traktat francusko-laotański uznaje pełną niepodległość)",
+    "location": "Azja Południowo-Wschodnia, północny wschód od Tajlandii, zachód od Wietnamu"
+  },
+  "lr": {
+    "description": "11 równych poziomych pasków koloru czerwonego na przemian z białym; pięcioramienna biała gwiazda znajduje się na niebieskim kwadracie w lewym górnym rogu",
+    "meaning": "paski oznaczają sygnatariuszy Deklaracji Niepodległości Liberii, niebieski kwadrat oznacza kontynent afrykański i gwiazdę wolności przyznanej byłym niewolnikom; niebieski oznacza wolność, sprawiedliwość i wierność; biały dla czystości, czystości i prostoty; czerwony oznacza niezłomność, męstwo i zapał",
+    "note": "uwaga: projekt wzorowany jest na fladze USA",
+    "nationalSymbols": "biała gwiazda",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "26 lipca 1847",
+    "location": "Afryka Zachodnia, granicząca z północnym Atlantykiem, pomiędzy Wybrzeżem Kości Słoniowej a Sierra Leone"
+  },
+  "lb": {
+    "description": "trzy poziome paski składające się z czerwonego (na górze), białego (środkowego, podwójnej szerokości) i czerwonego (na dole), z zielonym drzewem cedrowym pośrodku białego paska",
+    "meaning": "czerwony oznacza krew przelaną za wyzwolenie, a biały pokój, śnieg w górach i czystość; zielone drzewo cedrowe jest symbolem narodowym i reprezentuje wieczność, stabilność, szczęście i dobrobyt",
+    "note": "",
+    "nationalSymbols": "drzewo cedrowe",
+    "nationalColors": "czerwony, biały, zielony",
+    "independence": "22 listopada 1943 (z mandatu Ligi Narodów pod administracją francuską)",
+    "location": "Bliski Wschód, graniczący z Morzem Śródziemnym, pomiędzy Izraelem a Syrią"
+  },
+  "ly": {
+    "description": "trzy poziome paski w kolorze czerwonym (na górze), czarnym (o podwójnej szerokości) i zielonym, z białym półksiężycem i gwiazdą pośrodku czarnego paska",
+    "meaning": "kolory reprezentują trzy główne regiony kraju: czerwony oznacza Fezzan, czarny Cyrenajkę i zielony Trypolitanię; półksiężyc i gwiazda reprezentują islam\nhistoria: Tymczasowa Rada Narodowa przywróciła ten projekt flagi byłego Królestwa Libii (1951-69) w 2011 r., aby zastąpić całkowicie zielony sztandar reżimu QADHAFI",
+    "note": "",
+    "nationalSymbols": "gwiazda i półksiężyc, jastrząb",
+    "nationalColors": "czerwony, czarny, zielony",
+    "independence": "24 grudnia 1951 (od powiernictwa ONZ)",
+    "location": "Afryka Północna, granicząca z Morzem Śródziemnym, pomiędzy Egiptem, Tunezją i Algierią"
+  },
+  "lt": {
+    "description": "trzy równe poziome paski w kolorze żółtym (na górze), zielonym i czerwonym",
+    "meaning": "żółty oznacza złote pola, słońce, światło i dobroć; zieleń dla lasów, przyrody, wolności i nadziei; czerwień za odwagę i krew przelaną w obronie ojczyzny",
+    "note": "",
+    "nationalSymbols": "konny rycerz znany jako Vytis (Ścigający), bocian biały",
+    "nationalColors": "żółty, zielony, czerwony",
+    "independence": "16 lutego 1918 (z Rosji Sowieckiej i Niemiec); 11 marca 1990 (ogłoszony ze Związku Radzieckiego); 6 września 1991 (uznany przez Związek Radziecki); godne uwagi wcześniejsze daty: 6 lipca 1253 (koronacja MINDUGASA, tradycyjna data założenia); 1 lipca 1569 (utworzono Rzeczpospolitą Obojga Narodów)",
+    "location": "Europa Wschodnia, granicząca z Morzem Bałtyckim, pomiędzy Łotwą a Rosją, na zachód od Białorusi"
+  },
+  "lv": {
+    "description": "trzy poziome paski w kolorze bordowym (na górze), białym (w połowie szerokości) i bordowym\nhistoria: flaga jest jednym ze starszych sztandarów na świecie - średniowieczna kronika wspomina, że około 1280 roku plemiona łotewskie używały czerwonego sztandaru z białym paskiem",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "pliszka biała (ptak)",
+    "nationalColors": "bordowy, biały",
+    "independence": "18 listopada 1918 (z Rosji Sowieckiej); 4 maja 1990 (ogłoszony ze Związku Radzieckiego); 6 września 1991 (uznany przez Związek Radziecki)",
+    "location": "Europa Wschodnia, granicząca z Morzem Bałtyckim, pomiędzy Estonią i Litwą"
+  },
+  "li": {
+    "description": "dwa równe poziome pasy w kolorze niebieskim (u góry) i czerwonym, ze złotą koroną po lewej stronie niebieskiego paska\nhistoria: kolorystyka może nawiązywać do niebiesko-czerwonej barwy używanej w dworach księstwa w XVIII w.; koronę księcia dodano w 1937 r., aby odróżnić ją od flagi Haiti",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "kapelusz książęcy (korona)",
+    "nationalColors": "niebieski, czerwony",
+    "independence": "23 stycznia 1719 (utworzenie Księstwa Liechtensteinu); 12 lipca 1806 (niepodległość od Świętego Cesarstwa Rzymskiego); 24 sierpnia 1866 (niezależność od Konfederacji Niemieckiej)",
+    "location": "Europa Środkowa, pomiędzy Austrią i Szwajcarią"
+  },
+  "lu": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i jasnoniebieskim\nhistoria: kolory pochodzą z herbu Wielkiego Księcia",
+    "meaning": "",
+    "note": "uwaga: podobna do flagi Holandii, która jest krótsza i ma ciemniejszy kolor niebieski",
+    "nationalSymbols": "czerwony szalejący lew",
+    "nationalColors": "czerwony, biały, jasnoniebieski",
+    "independence": "1839 (z Holandii)",
+    "location": "Europa Zachodnia, pomiędzy Francją i Niemcami"
+  },
+  "mg": {
+    "description": "dwa równe poziome pasy w kolorze czerwonym (na górze) i zielonym oraz pionowym białym paskiem po lewej stronie",
+    "meaning": "czerwony oznacza suwerenność, zielony nadzieję, a biały czystość",
+    "note": "",
+    "nationalSymbols": "dłoń podróżnika (ravenala), zebu",
+    "nationalColors": "czerwony, zielony, biały",
+    "independence": "26 czerwca 1960 (z Francji)",
+    "location": "Afryka Południowa, wyspa na Oceanie Indyjskim, na wschód od Mozambiku"
+  },
+  "mw": {
+    "description": "trzy równe poziome pasy czarnego (na górze), czerwonego i zielonego, ze wschodzącym czerwonym słońcem wyśrodkowanym na czarnym pasku",
+    "meaning": "czarny oznacza grupy etniczne, czerwony krew przelaną w walce o wolność, a zielony naturę; słońce reprezentuje nadzieję na wolność dla kontynentu afrykańskiego",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "czarny, czerwony, zielony",
+    "independence": "6 lipca 1964 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, na wschód od Zambii, na zachód i północ od Mozambiku"
+  },
+  "mk": {
+    "description": "czerwone pole z żółtym słońcem (Słońcem Wolności) pośrodku, z ośmioma rozszerzającymi się promieniami rozciągającymi się na krawędzie",
+    "meaning": "kolory czerwony i żółty od dawna kojarzą się z Macedonią",
+    "note": "",
+    "nationalSymbols": "ośmioramienne słońce",
+    "nationalColors": "czerwony, żółty",
+    "independence": "8 września 1991 (referendum zatwierdziło niepodległość od Jugosławii)",
+    "location": "Europa Południowo-Wschodnia, na północ od Grecji"
+  },
+  "my": {
+    "description": "14 równych poziomych pasków koloru czerwonego na przemian z białym; ciemnoniebieski prostokąt w lewym górnym rogu ma żółty półksiężyc i 14-ramienną żółtą gwiazdę",
+    "meaning": "flaga jest często nazywana Jalur Gemilang (Paski Chwały); 14 pasków oznacza równy status 13 państw członkowskich i rządu federalnego; punkty na gwieździe reprezentują jedność tych bytów; półksiężyc jest tradycyjnym symbolem islamu; niebieski symbolizuje jedność narodu malajskiego, a żółty to kolor królewski",
+    "note": "uwaga: projekt wzorowany jest na fladze USA",
+    "nationalSymbols": "tygrys, hibiskus",
+    "nationalColors": "złoty, czarny",
+    "independence": "31 sierpnia 1957 (z Wielkiej Brytanii)",
+    "location": "Azja Południowo-Wschodnia, półwysep graniczący z Tajlandią i północną jedną trzecią wyspy Borneo, graniczący z Indonezją, Brunei i Morzem Południowochińskim, na południe od Wietnamu"
+  },
+  "mv": {
+    "description": "czerwony z dużym zielonym prostokątem pośrodku i pionowym białym półksiężycem pośrodku prostokąta",
+    "meaning": "czerwony oznacza tych, którzy poświęcili swoje życie w obronie kraju, zielony – pokój i dobrobyt, a biały półksiężyc jest symbolem islamu",
+    "note": "",
+    "nationalSymbols": "palma kokosowa, tuńczyk żółtopłetwy",
+    "nationalColors": "czerwony, zielony, biały",
+    "independence": "26 lipca 1965 (z Wielkiej Brytanii)",
+    "location": "Azja Południowa, grupa atoli na Oceanie Indyjskim, na południowy zachód od Indii"
+  },
+  "ml": {
+    "description": "trzy równe pionowe paski koloru zielonego (lewa strona), żółtego i czerwonego\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "meaning": "",
+    "note": "uwaga: kolory od lewej do prawej są takie same, jak kolory sąsiedniego Senegalu (który ma dodatkową zieloną gwiazdę centralną) i rewers flagi sąsiedniej Gwinei",
+    "nationalSymbols": "Wielki Meczet w Djenne",
+    "nationalColors": "zielony, żółty, czerwony",
+    "independence": "22 września 1960 (z Francji)",
+    "location": "wnętrze Afryki Zachodniej, południowy zachód od Algierii, na północ od Gwinei, Wybrzeża Kości Słoniowej i Burkina Faso, na zachód od Nigru"
+  },
+  "mr": {
+    "description": "zielony z czerwonymi paskami wzdłuż górnej i dolnej krawędzi; na zielonym polu pięcioramienna żółta gwiazda znajduje się pośrodku żółtego, skierowanego w górę półksiężyca",
+    "meaning": "półksiężyc, gwiazda i kolor zielony to tradycyjne symbole islamu; kolor zielony reprezentuje także nadzieję na świetlaną przyszłość; żółty oznacza piaski Sahary, a czerwony krew przelaną w walce o niepodległość",
+    "note": "",
+    "nationalSymbols": "pięcioramienna gwiazda między rogami poziomego półksiężyca",
+    "nationalColors": "zielony, żółty",
+    "independence": "28 listopada 1960 (z Francji)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem, pomiędzy Senegalem a Saharą Zachodnią"
+  },
+  "mt": {
+    "description": "dwa równe pionowe paski w kolorze białym (lewa strona) i czerwonym; w lewym górnym rogu znajduje się Krzyż Jerzego z czerwoną obwódką\nhistoria: według legendy kolory pochodzą od czerwono-białego sztandaru w szachownicę hrabiego Rogera z Sycylii, który usunął dwukolorowy róg i nadał Malcie w 1091 r., ale kolory najprawdopodobniej pochodzą od Rycerzy św. Jana, którzy rządzili Maltą od 1530 do 1798 r.; w 1942 r. król Wielkiej Brytanii Jerzy VI przyznał wyspiarzom Krzyż Jerzego za ich wyjątkową odwagę i waleczność podczas II wojny światowej, a po uzyskaniu niepodległości w 1964 r. do flagi dodano Krzyż Jerzego z czerwoną obwódką",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "Maltański ośmioramienny krzyż",
+    "nationalColors": "czerwony, biały",
+    "independence": "21 września 1964 (z Wielkiej Brytanii)",
+    "location": "Europa Południowa, wyspy na Morzu Śródziemnym, na południe od Sycylii (Włochy)"
+  },
+  "mu": {
+    "description": "cztery równe poziome paski w kolorze czerwonym (na górze), niebieskim, żółtym i zielonym",
+    "meaning": "czerwony oznacza samostanowienie i niezależność; niebieski dla Oceanu Indyjskiego; żółty dla nowego światła niepodległości, złotego słońca lub świetlanej przyszłości; i zielony dla rolnictwa lub bujnej roślinności wyspy",
+    "note": "uwaga: Mauritius ma jedyną flagę narodową z czterema poziomymi kolorowymi paskami",
+    "nationalSymbols": "ptak dodo, kwiat drzewa kolczyka (Trochetia boutoniana)",
+    "nationalColors": "czerwony, niebieski, żółty, zielony",
+    "independence": "12 marca 1968 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, wyspa na Oceanie Indyjskim, około 800 km (500 mil) na wschód od Madagaskaru"
+  },
+  "ma": {
+    "description": "czerwony z zielonym pentagramem (pięcioramienną gwiazdą liniową) znanym jako pieczęć Sulejmana (Salomona) pośrodku flagi",
+    "meaning": "czerwony i zielony to tradycyjne kolory flag arabskich, chociaż użycie czerwieni jest częściej kojarzone z arabskimi państwami Zatoki Perskiej; pentagram reprezentuje pięć filarów islamu i związek Boga z narodem\nhistoria: projekt pochodzi z 1912 roku",
+    "note": "",
+    "nationalSymbols": "symbol pentagramu, lew",
+    "nationalColors": "czerwony, zielony",
+    "independence": "2 marca 1956 (z Francji)",
+    "location": "Afryka Północna, granicząca z Północnym Atlantykiem i Morzem Śródziemnym, pomiędzy Algierią i Mauretanią"
+  },
+  "mc": {
+    "description": "dwa równe poziome paski koloru czerwonego (na górze) i białego\nhistoria: używa barw panującego rodu Grimaldich; kolory są używane od 1339 roku, co czyni ją jedną z najstarszych flag narodowych na świecie",
+    "meaning": "",
+    "note": "uwaga: podobna do flag Indonezji (dłuższa) i Polski (odwrócone kolory)",
+    "nationalSymbols": "czerwone i białe pastylki do ssania (kształty rombów)",
+    "nationalColors": "czerwony, biały",
+    "independence": "1419 (początek stałych rządów rodu GRIMALDICH)",
+    "location": "Europa Zachodnia, granicząca z Morzem Śródziemnym na południowym wybrzeżu Francji, w pobliżu granicy z Włochami"
+  },
+  "mx": {
+    "description": "trzy równe pionowe paski koloru zielonego (lewa strona), białego i czerwonego; Herb Meksyku (orzeł z wężem w dziobie, siedzący na kaktusie) jest wyśrodkowany w białym pasku",
+    "meaning": "zielony oznacza nadzieję, radość i miłość; biały dla pokoju i uczciwości; czerwony oznacza wytrzymałość, odwagę, siłę i męstwo",
+    "note": "",
+    "nationalSymbols": "złoty orzeł, dalia",
+    "nationalColors": "zielony, biały, czerwony",
+    "independence": "16 września 1810 (ogłoszono niepodległość od Hiszpanii); 27 września 1821 (uznany przez Hiszpanię)",
+    "location": "Ameryka Północna, granicząca z Morzem Karaibskim i Zatoką Amerykańską, między Belize a Stanami Zjednoczonymi oraz granicząca z północnym Oceanem Spokojnym, między Gwatemalą a Stanami Zjednoczonymi"
+  },
+  "mm": {
+    "description": "trzy równe poziome paski w kolorze żółtym (na górze), zielonym i czerwonym; pośrodku zielonego paska znajduje się pięcioramienna biała gwiazda, która zachodzi na żółte i czerwone paski\nhistoria: projekt ożywia trójpasmowe kolory, których Birma używała od 1943 do 1945 roku podczas okupacji japońskiej",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "chinthe (mityczny lew)",
+    "nationalColors": "żółty, zielony, czerwony, biały",
+    "independence": "4 stycznia 1948 (z Wielkiej Brytanii)",
+    "location": "Azja Południowo-Wschodnia, granicząca z Morzem Andamańskim i Zatoką Bengalską, pomiędzy Bangladeszem a Tajlandią"
+  },
+  "fm": {
+    "description": "jasnoniebieski z czterema pięcioramiennymi białymi gwiazdami pośrodku i ułożonymi we wzór rombu",
+    "meaning": "niebieski oznacza Ocean Spokojny, a gwiazdy cztery grupy wysp: Chuuk, Kosrae, Pohnpei i Yap",
+    "note": "",
+    "nationalSymbols": "cztery pięcioramienne białe gwiazdy na jasnoniebieskim polu, kwiat hibiskusa",
+    "nationalColors": "jasnoniebieski, biały",
+    "independence": "3 listopada 1986 (z administrowanego przez USA powiernictwa ONZ)",
+    "location": "Oceania, grupa wysp na północnym Pacyfiku, około trzech czwartych drogi z Hawajów do Indonezji"
+  },
+  "md": {
+    "description": "trzy równe pionowe paski błękitu pruskiego (lewa strona), żółci chromowej i czerwieni cynobrowej; herb Mołdawii pośrodku to ciemnozłoty rzymski orzeł zarysowany na czarno, z czerwonym dziobem i szponami; orzeł nosi w dziobie żółty krzyż, w prawych szponach zieloną gałązkę oliwną, a w lewych szponach żółte berło; na piersi orła czerwono-niebieska tarcza podzielona poziomo, ze stylizowaną głową tura, gwiazdą, różą i półksiężycem w kolorze czarnym i żółtym obrysowanym; na rewersie flagi znajduje się lustrzane odbicie herbu\nhistoria: zastąpiła flagę komunistyczną w 1990 r.; herb opiera się na tradycyjnych wzorach",
+    "meaning": "",
+    "note": "uwaga 1: kolory wzorowane są na fladze Rumunii, ale niebieski pasek Mołdawii jest jaśniejszy\nuwaga 2: jedna z trzech flag narodowych, które różnią się po obu stronach – pozostałe to Paragwaj i Arabia Saudyjska",
+    "nationalSymbols": "tury (rodzaj dzikiego bydła)",
+    "nationalColors": "niebieski, żółty, czerwony",
+    "independence": "27 sierpnia 1991 (ze Związku Radzieckiego)",
+    "location": "Europa Wschodnia, na północny wschód od Rumunii"
+  },
+  "nr": {
+    "description": "niebieski z wąskim poziomym złotym paskiem pośrodku i dużą białą 12-ramienną gwiazdą poniżej paska po lewej stronie",
+    "meaning": "niebieski oznacza Ocean Spokojny; gwiazda wskazuje położenie kraju w stosunku do równika (złoty pasek), a 12 punktów oznacza pierwotne plemiona Nauru; biały kolor gwiazdy reprezentuje fosforan, podstawę bogactwa wyspy",
+    "note": "",
+    "nationalSymbols": "fregata, kwiat calophyllum",
+    "nationalColors": "niebieski, żółty, biały",
+    "independence": "31 stycznia 1968 (od powiernictwa ONZ administrowanego przez Australię, Nową Zelandię i Wielką Brytanię)",
+    "location": "Oceania, wyspa na południowym Pacyfiku, na południe od Wysp Marshalla"
+  },
+  "na": {
+    "description": "szeroki czerwony pasek obszyty wąskimi białymi paskami dzieli flagę po przekątnej od lewego dolnego rogu do prawego górnego rogu; górny trójkąt jest niebieski i ma złotożółty, 12-promieniowy rozbłysk słońca, a dolny trójkąt jest zielony",
+    "meaning": "czerwony oznacza bohaterstwo ludzi i ich determinację w budowaniu przyszłości równych szans; biały oznacza pokój, jedność, ciszę i harmonię; niebieski oznacza niebo i Ocean Atlantycki, słońce oznacza moc i istnienie, a zielony roślinność i zasoby rolne",
+    "note": "",
+    "nationalSymbols": "oryks (antylopa)",
+    "nationalColors": "niebieski, czerwony, zielony, biały, żółty",
+    "independence": "21 marca 1990 (z mandatu Republiki Południowej Afryki)",
+    "location": "Afryka Południowa, granicząca z południowym Oceanem Atlantyckim, pomiędzy Angolą a Republiką Południowej Afryki"
+  },
+  "np": {
+    "description": "szkarłatno-czerwony z niebieską obwódką, w kształcie dwóch nakładających się trójkątów prostokątnych; mniejszy górny trójkąt ma stylizowany biały księżyc, a większy dolny trójkąt ma 12-ramienne białe słońce",
+    "meaning": "czerwony oznacza rododendron (kwiat narodowy) oraz zwycięstwo i odwagę, a niebieska granica oznacza pokój i harmonię; te dwa trójkąty są połączeniem dwóch proporczyków, które pierwotnie symbolizowały Himalaje, ale dziś nawiązują do hinduizmu i buddyzmu, dwóch głównych religii kraju; księżyc oznacza spokój ludzi, a także himalajski cień i chłodną pogodę, a słońce upał i wyższe temperatury w pozostałej części kraju",
+    "note": "uwaga: Nepal jest jedynym krajem, którego flaga nie jest prostokątna ani kwadratowa",
+    "nationalSymbols": "kwiat rododendronów",
+    "nationalColors": "czerwony",
+    "independence": "1768 (zjednoczone przez Prithvi Narayana SHAH)",
+    "location": "Azja Południowa, pomiędzy Chinami i Indiami"
+  },
+  "mn": {
+    "description": "trzy równe pionowe paski w kolorze czerwonym (lewa strona), niebieskim i czerwonym; pośrodku czerwonego paska po lewej stronie znajduje się żółte godło państwowe, soyombo, które jest abstrakcyjnym przedstawieniem ognia, słońca, księżyca, ziemi, wody i symbolu yin-yang",
+    "meaning": "niebieski oznacza niebo, a czerwony postęp i dobrobyt",
+    "note": "",
+    "nationalSymbols": "Postać Soyombo (z systemu pisma Soyombo)",
+    "nationalColors": "czerwony, niebieski, żółty",
+    "independence": "29 grudnia 1911 (ogłoszono niepodległość od Chin, faktycznie uzyskano autonomię); 11 lipca 1921 (z Chin)",
+    "location": "Azja Północna, pomiędzy Chinami i Rosją"
+  },
+  "mz": {
+    "description": "trzy równe poziome pasy w kolorze zielonym (na górze), czarnym i żółtym, z czerwonym trójkątem równoramiennym po lewej stronie; czarny pasek ma białą obwódkę; pośrodku trójkąta znajduje się pięcioramienna żółta gwiazda ze skrzyżowanym czarno-białym karabinem i motyką, na górze otwartej białej księgi",
+    "meaning": "zielony oznacza bogactwo ziemi, biały pokój, czarny kontynent afrykański, żółty minerały kraju, a czerwony walkę o niepodległość; karabin oznacza obronę i czujność, motyka rolnictwa, otwarta księga znaczenia edukacji, a gwiazda marksizmu i internacjonalizmu",
+    "note": "uwaga: jedna z dwóch flag narodowych przedstawiających broń palną; drugim jest Gwatemala",
+    "nationalSymbols": "karabin, motyka i książka",
+    "nationalColors": "zielony, czarny, żółty, biały, czerwony",
+    "independence": "25 czerwca 1975 (z Portugalii)",
+    "location": "Afryka Południowo-Wschodnia, granicząca z Kanałem Mozambickim, pomiędzy Republiką Południowej Afryki a Tanzanią"
+  },
+  "ng": {
+    "description": "trzy równe pionowe paski koloru zielonego (lewa strona), białego i zielonego",
+    "meaning": "zielony oznacza lasy i zasoby naturalne kraju, a biały pokój i jedność",
+    "note": "",
+    "nationalSymbols": "orzeł",
+    "nationalColors": "zielony, biały",
+    "independence": "1 października 1960 (z Wielkiej Brytanii)",
+    "location": "Afryka Zachodnia, granicząca z Zatoką Gwinejską, pomiędzy Beninem a Kamerunem"
+  },
+  "ni": {
+    "description": "trzy równe poziome pasy w kolorze niebieskim (u góry), białym i niebieskim, z herbem narodowym pośrodku białego paska; w herbie znajduje się trójkąt z napisami REPUBLICA DE NICARAGUA w łuku nad nim i AMERICA CENTRAL w łuku pod spodem",
+    "meaning": "niebieski oznacza Ocean Spokojny i Morze Karaibskie, a biały ląd pomiędzy dwoma zbiornikami wodnymi\nhistoria: sztandar wzorowany jest na dawnej niebiesko-biało-niebieskiej fladze Federalnej Republiki Ameryki Środkowej",
+    "note": "uwaga: podobna do flagi Salwadoru, która ma okrągłe godło; również podobna do flagi Hondurasu, która ma pięć niebieskich gwiazd we wzorze „X” pośrodku białego paska",
+    "nationalSymbols": "Motmot o turkusowych brwiach (ptak)",
+    "nationalColors": "niebieski, biały",
+    "independence": "15 września 1821 (z Hiszpanii)",
+    "location": "Ameryka Środkowa, granicząca zarówno z Morzem Karaibskim, jak i Północnym Pacyfikiem, pomiędzy Kostaryką a Hondurasem"
+  },
+  "no": {
+    "description": "czerwony z niebieskim krzyżem zaznaczonym na biało, który sięga do krawędzi flagi; krzyż przesunięty w lewą stronę w stylu Dannebroga (flagi Danii)",
+    "meaning": "kolory przedstawiają przeszłe związki polityczne Norwegii z Danią (czerwony i biały) i Szwecją (niebieski)",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "7 czerwca 1905 (ogłoszono rozwiązanie unii ze Szwecją); 26 października 1905 (Szwecja zgodziła się na uchylenie unii); godne uwagi wcześniejsze daty: ok. 872 (tradycyjne zjednoczenie królestw norweskich przez HARALDA Jasnowłosego); 1397 (Unia Kalmarska Danii, Norwegii i Szwecji); 1524 (Dania-Norwegia); 17 maja 1814 (przyjęcie konstytucji norweskiej); 4 listopada 1814 (potwierdzenie unii Szwecji i Norwegii)",
+    "location": "Europa Północna, granicząca z Morzem Północnym i Północnym Oceanem Atlantyckim, na zachód od Szwecji"
+  },
+  "ne": {
+    "description": "trzy równe poziome paski w kolorze pomarańczowym (na górze), białym i zielonym, z pomarańczowym dyskiem wyśrodkowanym na białym pasku",
+    "meaning": "pomarańczowy oznacza północne regiony Sahary, biały czystość i niewinność, a zielony nadzieję oraz żyzne i produktywne obszary południowe i zachodnie, a także rzekę Niger; pomarańczowy dysk przedstawia słońce i ofiary ludzi",
+    "note": "uwaga: podobna do flagi Indii, która ma niebieskie koło ze szprychami pośrodku białego paska",
+    "nationalSymbols": "zebu",
+    "nationalColors": "pomarańczowy, biały, zielony",
+    "independence": "3 sierpnia 1960 (z Francji)",
+    "location": "Afryka Zachodnia, na południowy wschód od Algierii"
+  },
+  "de": {
+    "description": "trzy równe poziome pasy w kolorze czarnym (na górze), czerwonym i złotym\nhistoria: kolory wywodzą się ze średniowiecznego sztandaru Świętego Cesarza Rzymskiego – czarnego orła z czerwonymi pazurami i dziobem na złotym polu",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "orzeł",
+    "nationalColors": "czarny, czerwony, żółty",
+    "independence": "18 stycznia 1871 (powstanie Cesarstwa Niemieckiego); podzielony na cztery strefy okupacyjne (Wielka Brytania, USA, ZSRR i Francja) w 1945 r. po II wojnie światowej; Republika Federalna Niemiec (FRG lub Niemcy Zachodnie) proklamowana 23 maja 1949 r. i obejmowała dawne strefy Wielkiej Brytanii, Stanów Zjednoczonych i Francji; Niemiecka Republika Demokratyczna (NRD lub Niemcy Wschodnie) proklamowana 7 października 1949 r. i obejmująca byłą strefę ZSRR; Niemcy Zachodnie i Niemcy Wschodnie zjednoczyły się 3 października 1990 r., a wszystkie cztery mocarstwa formalnie zrzekły się praw 15 marca 1991 r.; godne uwagi wcześniejsze daty: 10 sierpnia 843 (Francja Wschodnia powstała w wyniku podziału Cesarstwa Karolingów); 2 lutego 962 (koronacja OTTO I, uznanego za pierwszego Świętego Cesarza Rzymskiego)",
+    "location": "Europa Środkowa, granicząca z Morzem Bałtyckim i Morzem Północnym, pomiędzy Holandią a Polską, na południe od Danii"
+  },
+  "pw": {
+    "description": "jasnoniebieski z dużym żółtym dyskiem po lewej stronie",
+    "meaning": "niebieski oznacza ocean, a dysk księżyc, który jest uważany za symbol pokoju, miłości i spokoju",
+    "note": "",
+    "nationalSymbols": "bai (rodzimy dom spotkań)",
+    "nationalColors": "niebieski, żółty",
+    "independence": "1 października 1994 (od administrowanego przez USA powiernictwa ONZ)",
+    "location": "Oceania, grupa wysp na północnym Pacyfiku, na południowy wschód od Filipin"
+  },
+  "pk": {
+    "description": "zielony z pionowym białym paskiem po lewej stronie; duży biały półksiężyc i gwiazda znajdują się pośrodku zielonego pola",
+    "meaning": "półksiężyc, gwiazda i kolor zielony to tradycyjne symbole islamu; biały pasek symbolizuje rolę mniejszości religijnych",
+    "note": "",
+    "nationalSymbols": "pięcioramienna gwiazda między rogami przybywającego półksiężyca, jaśmin",
+    "nationalColors": "zielony, biały",
+    "independence": "14 sierpnia 1947 (z Indii Brytyjskich)",
+    "location": "Azja Południowa, granicząca z Morzem Arabskim, pomiędzy Indiami na wschodzie, Iranem i Afganistanem na zachodzie oraz Chinami na północy"
+  },
+  "nz": {
+    "description": "niebieski z flagą Wielkiej Brytanii w lewym górnym kwadrancie, z czterema pięcioramiennymi czerwonymi gwiazdami otoczonymi białymi krawędziami, pośrodku prawej połowy flagi",
+    "meaning": "gwiazdy reprezentują konstelację Krzyża Południa",
+    "note": "",
+    "nationalSymbols": "Konstelacja Krzyża Południa (cztery pięcioramienne gwiazdy), kiwi (ptak), srebrna paproć",
+    "nationalColors": "czarny, biały, czerwony (ochra)",
+    "independence": "26 września 1907 (z Wielkiej Brytanii)",
+    "location": "Oceania, wyspy na południowym Pacyfiku, na południowy wschód od Australii"
+  },
+  "ps": {
+    "description": "trzy równe poziome pasy: czarny, biały i zielony, z czerwonym trójkątem równoramiennym przy drzewcu",
+    "meaning": "cztery barwy panarabskie łączą flagę z historią i wspólnym językiem wizualnym arabskich ruchów narodowych",
+    "note": "wzór należy do rodziny flag wywodzących się ze sztandaru rewolty arabskiej z 1916 roku",
+    "nationalSymbols": "",
+    "nationalColors": "",
+    "independence": "",
+    "location": "Bliski Wschód, na zachód od Jordanii, na wschód od Izraela"
+  },
+  "om": {
+    "description": "trzy równe poziome pasy w kolorze białym (u góry), czerwonym i zielonym oraz pionowym czerwonym paskiem po lewej stronie; godło państwowe (sztylet khanjar w pochwie na szczycie skrzyżowanych mieczy w pochwach) w kolorze białym jest wyśrodkowane w górnej części pionowego paska",
+    "meaning": "biały oznacza pokój i dobrobyt, czerwony bitwy z obcymi najeźdźcami, a zielony Jebel al Akhdar (Zielone Góry) i płodność",
+    "note": "",
+    "nationalSymbols": "sztylet khanjar na szczycie dwóch skrzyżowanych mieczy",
+    "nationalColors": "czerwony, biały, zielony",
+    "independence": "1650 (wypędzenie Portugalczyków)",
+    "location": "Bliski Wschód, graniczący z Morzem Arabskim, Zatoką Omańską i Zatoką Perską, pomiędzy Jemenem a ZEA"
+  },
+  "pe": {
+    "description": "trzy równe pionowe paski w kolorze czerwonym (lewa strona), białym i czerwonym, z herbem wyśrodkowanym na białym pasku; w herbie tarcza z wigonią, drzewem chinowym i żółtym rogiem obfitości wysypującym monety",
+    "meaning": "wigonia reprezentuje faunę, drzewo chinowe jest źródłem chininy, a róg obfitości symbolizuje bogactwo mineralne; czerwony oznacza przelanie krwi w imię niepodległości, a biały pokój",
+    "note": "",
+    "nationalSymbols": "wigoń (wielbłądowata spokrewniona z lamą)",
+    "nationalColors": "czerwony, biały",
+    "independence": "28 lipca 1821 (z Hiszpanii)",
+    "location": "Zachodnia Ameryka Południowa, granicząca z południowym Pacyfikiem, pomiędzy Chile i Ekwadorem"
+  },
+  "pl": {
+    "description": "dwa równe poziome paski w kolorze białym (na górze) i czerwonym",
+    "meaning": "kolory wywodzą się z godła Polski, orła białego na czerwonym polu",
+    "note": "uwaga: podobna do flag Indonezji i Monako, które są czerwone (na górze) i białe",
+    "nationalSymbols": "orzeł w koronie białej",
+    "nationalColors": "biały, czerwony",
+    "independence": "11 listopada 1918 (proklamowano republikę); godne uwagi wcześniejsze daty: 14 kwietnia 966 (przyjęcie chrześcijaństwa, tradycyjna data założenia), 1 lipca 1569 (utworzenie Rzeczypospolitej Obojga Narodów)",
+    "location": "Europa Środkowa, na wschód od Niemiec"
+  },
+  "pa": {
+    "description": "podzielony na cztery równe prostokąty; jedna z górnych ćwiartek jest biała (lewa strona) z pięcioramienną niebieską gwiazdą pośrodku, a druga jest gładka czerwona; jedna z dolnych ćwiartek jest gładka niebieska (lewa strona), a druga jest biała z pięcioramienną czerwoną gwiazdą pośrodku",
+    "meaning": "niebieski i czerwony oznaczają główne partie polityczne, a biały pokój między nimi; niebieska gwiazda oznacza cnoty obywatelskie, takie jak czystość i uczciwość, a czerwona gwiazda oznacza władzę i prawo",
+    "note": "",
+    "nationalSymbols": "harpia, orzeł",
+    "nationalColors": "niebieski, biały, czerwony",
+    "independence": "3 listopada 1903 (z Kolumbii); 28 listopada 1821 (z Hiszpanii)",
+    "location": "Ameryka Środkowa, granicząca zarówno z Morzem Karaibskim, jak i Północnym Oceanem Spokojnym, pomiędzy Kolumbią a Kostaryką"
+  },
+  "pg": {
+    "description": "podzielony po przekątnej od lewego górnego rogu; górny trójkąt jest czerwony i ma pośrodku szybującego żółtego rajskiego ptaka; dolny trójkąt jest czarny z pięcioma pięcioramiennymi białymi gwiazdami konstelacji Krzyża Południa",
+    "meaning": "czerwony, czarny i żółty to tradycyjne kolory kraju; rajski ptak jest symbolem regionalnej kultury plemiennej i reprezentuje pojawienie się Papui-Nowej Gwinei jako narodu; Krzyż Południa symbolizuje połączenie kraju z Australią i kilkoma innymi krajami na południowym Pacyfiku",
+    "note": "",
+    "nationalSymbols": "rajski ptak",
+    "nationalColors": "czerwony, czarny",
+    "independence": "16 września 1975 (od powiernictwa ONZ administrowanego przez Australię)",
+    "location": "Oceania, grupa wysp obejmująca wschodnią część wyspy Nowa Gwinea pomiędzy Morzem Koralowym a południowym Oceanem Spokojnym, na wschód od Indonezji"
+  },
+  "py": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i niebieskim, z emblematem wyśrodkowanym na białym pasku; godłem po jednej stronie flagi jest herb narodowy, na którym znajduje się pięcioramienna żółta gwiazda w zielonym wieńcu, a wokół niej napis REPUBLICA DEL PARAGUAY, wszystko w dwóch okręgach; po drugiej stronie flagi znajduje się okrągła pieczęć skarbowa (żółty lew pod czerwoną Czapką Wolności i napis PAZ Y JUSTICIA)",
+    "meaning": "czerwony oznacza odwagę i patriotyzm, biały uczciwość i pokój, a niebieski wolność i hojność",
+    "note": "uwaga 1: przypomina flagę Holandii, która nie ma centralnego emblematu\nuwaga 2: jedna z trzech flag narodowych, które różnią się z każdej strony – pozostałe to Mołdawia i Arabia Saudyjska",
+    "nationalSymbols": "lew",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "14-15 maja 1811 (z Hiszpanii)",
+    "location": "Środkowa Ameryka Południowa, północny wschód od Argentyny, południowy zachód od Brazylii"
+  },
+  "cv": {
+    "description": "pięć nierównych poziomych pasów; górny pas koloru niebieskiego stanowi połowę wysokości flagi; pod nim znajdują się trzy wąskie paski w kolorze białym, czerwonym i białym oraz dolny pasek w kolorze niebieskim; okrąg z 10 pięcioramiennych żółtych gwiazd znajduje się pośrodku czerwonego paska i znajduje się po lewej stronie flagi",
+    "meaning": "niebieski oznacza morze i niebo; paski symbolizują formację kraju poprzez pokój (biały) i wysiłek (czerwony); gwiazdy reprezentują 10 głównych wysp",
+    "note": "",
+    "nationalSymbols": "dziesięć pięcioramiennych żółtych gwiazd",
+    "nationalColors": "niebieski, biały, czerwony, żółty",
+    "independence": "5 lipca 1975 (z Portugalii)",
+    "location": "Afryka Zachodnia, grupa wysp na północnym Atlantyku, na zachód od Senegalu"
+  },
+  "ru": {
+    "description": "trzy równe poziome paski w kolorze białym (na górze), niebieskim i czerwonym",
+    "meaning": "kolory mogły być wzorowane na fladze holenderskiej, ale nie przypisano żadnego oficjalnego znaczenia\nhistoria: powstała, gdy Rosja zbudowała swoje pierwsze okręty wojenne i do XIX wieku była używana głównie jako flaga morska",
+    "note": "uwaga: zainspirowało kilka innych krajów słowiańskich do przyjęcia poziomych trójkolorów tych samych kolorów w różnych aranżacjach",
+    "nationalSymbols": "niedźwiedź, dwugłowy orzeł",
+    "nationalColors": "biały, niebieski, czerwony",
+    "independence": "25 grudnia 1991 (ze Związku Radzieckiego; Rosyjska FSRR przemianowana na Federację Rosyjską); godne uwagi wcześniejsze daty: 1157 (utworzenie księstwa włodzimiersko-suzdalskiego); 16 stycznia 1547 (utworzenie caratu moskiewskiego); 22 października 1721 (proklamowanie Cesarstwa Rosyjskiego); 30 grudnia 1922 (utworzenie Związku Radzieckiego)",
+    "location": "Azja Północna granicząca z Oceanem Arktycznym, rozciągająca się od Europy Wschodniej (część na zachód od Uralu) po północny Ocean Spokojny"
+  },
+  "za": {
+    "description": "dwa poziome paski o równej szerokości, czerwony (na górze) i niebieski, oddzielone centralnym zielonym pasem, który dzieli się na poziomą literę Y; czarny trójkąt równoramienny znajduje się w literze Y, otoczony wąskimi żółtymi paskami; czerwone i niebieskie paski są otoczone wąskimi białymi paskami",
+    "meaning": "kolory nie mają oficjalnego znaczenia, ale litera Y oznacza „zbieżność różnorodnych elementów społeczeństwa Republiki Południowej Afryki, podążanie drogą w jedności”",
+    "note": "uwaga: Republika Południowej Afryki ma jedną z dwóch flag narodowych, które w głównym projekcie mają sześć kolorów – druga to flaga Sudanu Południowego",
+    "nationalSymbols": "springbok (antylopa), kwiat królewski protea",
+    "nationalColors": "czerwony, zielony, niebieski, żółty, czarny, biały",
+    "independence": "31 maja 1910 (Unia Republiki Południowej Afryki utworzona z czterech kolonii brytyjskich: Kolonii Przylądkowej, Natalu, Transwalu i Wolnego Państwa Orańskiego); 22 sierpnia 1934 (Akt o Statucie Związku); 31 maja 1961 (ogłoszenie republiki); 27 kwietnia 1994 (rządy większości)",
+    "location": "Afryka Południowa, na południowym krańcu kontynentu afrykańskiego"
+  },
+  "pt": {
+    "description": "dwa pionowe pasy w kolorze zielonym (lewa strona, dwie piąte) i czerwonym (trzy piąte), z herbem narodowym (sferą armilarną i tarczą narodową) wyśrodkowanym na linii podziału",
+    "meaning": "wyjaśnienia znaczenia kolorów są niejednoznaczne, ale popularna interpretacja głosi, że zielony symbolizuje nadzieję, a czerwony krew broniących narodu",
+    "note": "",
+    "nationalSymbols": "sfera armilarna (sferyczne astrolabium do modelowania obiektów na niebie)",
+    "nationalColors": "czerwony, zielony",
+    "independence": "1143 (uznanie Królestwa Portugalii); 1 grudnia 1640 (przywrócenie niepodległości po 60 latach panowania hiszpańskiego); 5 października 1910 (proklamowana republika)",
+    "location": "Europa Południowo-Zachodnia, granicząca z Północnym Oceanem Atlantyckim, na zachód od Hiszpanii"
+  },
+  "cf": {
+    "description": "cztery równe poziome paski w kolorze niebieskim (u góry), białym, zielonym i żółtym z pionowym czerwonym paskiem pośrodku; pięcioramienna żółta gwiazda znajduje się w lewym górnym rogu flagi, na niebieskim pasku",
+    "meaning": "łączy kolory flagi panafrykańskiej i francuskiej; czerwony oznacza krew przelaną w walce o niepodległość, niebieski niebo i wolność, biały pokój i godność, zielony nadzieję i wiarę, a żółty tolerancję; gwiazda reprezentuje aspiracje do pełnej życia przyszłości",
+    "note": "",
+    "nationalSymbols": "słoń",
+    "nationalColors": "niebieski, biały, zielony, żółty, czerwony",
+    "independence": "13 sierpnia 1960 (z Francji)",
+    "location": "Afryka Środkowa, na północ od Demokratycznej Republiki Konga"
+  },
+  "lc": {
+    "description": "błękit błękitny ze złotym trójkątem równoramiennym poniżej czarnego grotu strzałki; górne krawędzie grotu strzałki mają białą obwódkę",
+    "meaning": "niebieski oznacza niebo i morze, złoty słońce i dobrobyt, a biały i czarny skład etniczny wyspy; trójkąty przedstawiają Gros Piton i Petit Piton, stożkowe korki wulkaniczne, które są symbolem wyspy",
+    "note": "",
+    "nationalSymbols": "bliźniacze haki (szczyty wulkaniczne), papuga Saint Lucia",
+    "nationalColors": "błękit cerulejski, złoty, czarny, biały",
+    "independence": "22 lutego 1979 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspa pomiędzy Morzem Karaibskim a Północnym Atlantykiem, na północ od Trynidadu i Tobago"
+  },
+  "ro": {
+    "description": "trzy równe pionowe paski w kolorze niebieskim (lewa strona), żółtym i czerwonym",
+    "meaning": "kolory pochodzą z księstw Wołoszczyzny (czerwony i żółty) oraz Mołdawii (czerwony i niebieski), które zjednoczyły się w 1862 roku, tworząc Rumunię\nhistoria: wzorowana na fladze francuskiej; herb narodowy, który kiedyś znajdował się pośrodku żółtego paska, został usunięty",
+    "note": "uwaga: podobna do flagi Czadu, która ma ciemniejszy niebieski pasek; przypomina również flagi Andory i Mołdawii",
+    "nationalSymbols": "złoty orzeł",
+    "nationalColors": "niebieski, żółty, czerwony",
+    "independence": "9 maja 1877 (ogłoszono niepodległość od Imperium Osmańskiego; 13 lipca 1878 (niepodległość uznana na mocy traktatu berlińskiego); 26 marca 1881 (proklamowano królestwo); 30 grudnia 1947 (proklamowano republikę)",
+    "location": "Europa Południowo-Wschodnia, granicząca z Morzem Czarnym, pomiędzy Bułgarią i Ukrainą"
+  },
+  "vc": {
+    "description": "trzy pionowe paski w kolorze niebieskim (lewa strona), złotym (podwójna szerokość) i zielonym; złoty pasek ma trzy zielone diamenty ułożone we wzór „V”, który oznacza „Vincent”",
+    "meaning": "diamenty przedstawiają wyspy jako „klejnoty Antyli” i są osadzone nieco obniżone w złotym pasku, aby odzwierciedlić pozycję kraju na Antylach; niebieski oznacza tropikalne niebo i morze, żółty piasek, a zielony roślinność",
+    "note": "",
+    "nationalSymbols": "Papuga Świętego Wincentego",
+    "nationalColors": "niebieski, złoty, zielony",
+    "independence": "27 października 1979 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspy pomiędzy Morzem Karaibskim a Północnym Atlantykiem, na północ od Trynidadu i Tobago"
+  },
+  "kn": {
+    "description": "rozdzielony ukośnie od lewego dolnego rogu szerokim czarnym pasem z dwiema pięcioramiennymi białymi gwiazdami; czarny pasek ma żółtą obwódkę; górny trójkąt jest zielony, a dolny czerwony",
+    "meaning": "zielony oznacza płodność wyspy, czerwony zmagania ludzi z niewoli, żółty oznacza całoroczne słońce, a czarny afrykańskie dziedzictwo ludu; białe gwiazdy symbolizują wyspy Saint Kitts i Nevis, ale mogą również wyrażać nadzieję i wolność lub niezależność i optymizm",
+    "note": "",
+    "nationalSymbols": "pelikan brązowy, drzewo królewskie poinciana (ekstrawaganckie).",
+    "nationalColors": "zielony, żółty, czerwony, czarny, biały",
+    "independence": "19 września 1983 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspy na Morzu Karaibskim, około jedna trzecia drogi z Portoryko do Trynidadu i Tobago"
+  },
+  "rw": {
+    "description": "trzy poziome pasy w kolorze błękitnym (górny, o podwójnej szerokości), żółtym i zielonym, ze złotym słońcem z 24 promieniami na prawym końcu niebieskiego paska",
+    "meaning": "niebieski oznacza szczęście i pokój, żółty rozwój gospodarczy i bogactwo mineralne, a zielony nadzieję na dobrobyt i zasoby naturalne; słońce symbolizuje jedność i oświecenie",
+    "note": "",
+    "nationalSymbols": "tradycyjny tkany kosz z daszkiem",
+    "nationalColors": "niebieski, żółty, zielony",
+    "independence": "1 lipca 1962 (od powiernictwa ONZ administrowanego przez Belgię)",
+    "location": "Afryka Środkowa, na wschód od Demokratycznej Republiki Konga, na północ od Burundi"
+  },
+  "sv": {
+    "description": "trzy równe poziome pasy w kolorze błękitu kobaltowego (na górze), bieli i błękitu kobaltowego, z herbem narodowym pośrodku białego paska; w herbie znajduje się okrągły emblemat z napisem REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL",
+    "meaning": "niebieskie paski oznaczają Ocean Spokojny i Morze Karaibskie, a białe oznaczają ląd, a także pokój i dobrobyt\nhistoria: sztandar wzorowany jest na dawnej niebiesko-biało-niebieskiej fladze Federalnej Republiki Ameryki Środkowej",
+    "note": "uwaga: podobna do flagi Nikaragui, która ma inny herb wyśrodkowany na białym pasku; również podobna do flagi Hondurasu, która ma pięć niebieskich gwiazd ułożonych we wzór „X” i pośrodku białego paska",
+    "nationalSymbols": "Motmot o turkusowych brwiach (ptak)",
+    "nationalColors": "niebieski, biały",
+    "independence": "15 września 1821 (z Hiszpanii)",
+    "location": "Ameryka Środkowa, granicząca z północnym Pacyfikiem, pomiędzy Gwatemalą a Hondurasem"
+  },
+  "sn": {
+    "description": "trzy równe pionowe paski w kolorze zielonym (po lewej stronie), żółtym i czerwonym, z małą pięcioramienną zieloną gwiazdą pośrodku żółtego paska; zielony oznacza islam, postęp i nadzieję, żółty bogactwo naturalne i postęp, a czerwony poświęcenie i determinację; gwiazda reprezentuje jedność i nadzieję\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "meaning": "",
+    "note": "uwaga: kolory od lewej do prawej są takie same jak flaga Mali i rewers flagi Gwinei",
+    "nationalSymbols": "lew",
+    "nationalColors": "zielony, żółty, czerwony",
+    "independence": "4 kwietnia 1960 (z Francji); 20 sierpnia 1960 (pełna niepodległość po rozwiązaniu federacji z Mali)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem, pomiędzy Gwineą Bissau i Mauretanią"
+  },
+  "sm": {
+    "description": "dwa równe poziome pasy w kolorze białym (u góry) i jasnoniebieskim, z herbem narodowym pośrodku; główne kolory pochodzą z tarczy herbowej, która przedstawia trzy białe wieże na szczytach górskich na niebieskim polu; wokół tarczy wieniec i korona, nad zwojem z napisem LIBERTAS (Wolność)",
+    "meaning": "wieże przedstawiają zamki Guaita, Cesta i Montale na górze Titano; Mówi się, że biały i niebieski symbolizują pokój i wolność",
+    "note": "",
+    "nationalSymbols": "trzy szczyty, każdy z wieżą",
+    "nationalColors": "biały, niebieski",
+    "independence": "3 września 301 (tradycyjna data założenia)",
+    "location": "Europa Południowa, enklawa w środkowych Włoszech"
+  },
+  "ws": {
+    "description": "czerwony z niebieskim prostokątem w lewym górnym kwadrancie; na prostokącie znajduje się pięć pięcioramiennych białych gwiazd, które reprezentują konstelację Krzyża Południa",
+    "meaning": "czerwony oznacza odwagę, niebieski wolność, a biały czystość",
+    "note": "uwaga: podobna do flagi Tajwanu",
+    "nationalSymbols": "Konstelacja Krzyża Południa (pięć gwiazd pięcioramiennych)",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "1 stycznia 1962 (od powiernictwa ONZ administrowanego przez Nową Zelandię)",
+    "location": "Oceania, grupa wysp na południowym Pacyfiku, mniej więcej w połowie drogi między Hawajami a Nową Zelandią"
+  },
+  "rs": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), niebieskim i białym; herb narodowy przesunięty jest na lewą stronę; w głównym polu herbu dwugłowy orzeł biały na czerwonej tarczy; mniejsza czerwona tarcza na orle jest podzielona na cztery części białym krzyżem; korona królewska znajduje się na herbie",
+    "meaning": "czerwony, niebieski i biały to barwy pansłowiańskie, które reprezentują wolność i rewolucyjne ideały; orzeł na czerwonej tarczy reprezentuje rząd; mniejsza tarcza przedstawia kraj; znaczenie i pochodzenie zakrzywionych białych symboli w każdej ćwiartce nie są jasne",
+    "note": "uwaga: barwy pansłowiańskie inspirowane były flagą Rosji",
+    "nationalSymbols": "biały dwugłowy orzeł",
+    "nationalColors": "czerwony, niebieski, biały",
+    "independence": "5 czerwca 2006 r. (ze Związku Państw Serbii i Czarnogóry); godne uwagi wcześniejsze daty: 1217 (powstanie Królestwa Serbii); 16 kwietnia 1346 (utworzenie Cesarstwa Serbskiego); 13 lipca 1878 (Kongres Berliński uznaje niepodległość Serbii); 1 grudnia 1918 (utworzenie Królestwa Serbów, Chorwatów i Słoweńców, później znanego jako Jugosławia)",
+    "location": "Europa Południowo-Wschodnia, między Macedonią a Węgrami"
+  },
+  "sk": {
+    "description": "trzy równe poziome paski w kolorze białym (na górze), niebieskim i czerwonym; herb narodowy (czerwona tarcza otoczona białą obwódką, z białym, podwójnym krzyżem św. Cyryla i Metodego na szczycie trzech niebieskich wzgórz) jest wyśrodkowany nad pasami, ale przesunięty w lewo",
+    "meaning": "biały, niebieski i czerwony to kolory pan-słowiańskie",
+    "note": "uwaga: barwy pansłowiańskie inspirowane były flagą Rosji",
+    "nationalSymbols": "krzyż z podwójną poprzeczką (Krzyż św. Cyryla i Metodego) na trzech szczytach",
+    "nationalColors": "biały, niebieski, czerwony",
+    "independence": "1 stycznia 1993 (podział Czechosłowacji na Czechy i Słowację)",
+    "location": "Europa Środkowa, południe Polski"
+  },
+  "sc": {
+    "description": "pięć rozszerzających się pasm w kolorze niebieskim, żółtym, czerwonym, białym i zielonym, promieniujących od lewego dolnego rogu",
+    "meaning": "zespoły symbolizują nowy, dynamiczny kraj wkraczający w przyszłość; niebieski oznacza niebo i morze, żółty słońce dające światło i życie, czerwony determinację ludzi do pracy na rzecz przyszłości w jedności i miłości, biały sprawiedliwość społeczną i harmonię, a zielony oznacza ziemię i środowisko naturalne",
+    "note": "",
+    "nationalSymbols": "coco de mer (kokos morski)",
+    "nationalColors": "niebieski, żółty, czerwony, biały, zielony",
+    "independence": "29 czerwca 1976 (z Wielkiej Brytanii)",
+    "location": "archipelag na Oceanie Indyjskim, na północny wschód od Madagaskaru"
+  },
+  "sg": {
+    "description": "dwa równe poziome paski w kolorze czerwonym (na górze) i białym; pionowy biały półksiężyc znajduje się po lewej stronie czerwonego paska, a okrąg pięciu pięcioramiennych białych gwiazd po prawej stronie półksiężyca",
+    "meaning": "czerwony oznacza braterstwo i równość, a biały czystość i cnotę; rosnący sierp księżyca symbolizuje młody naród w fazie dominacji; gwiazdy reprezentują narodowe ideały demokracji, pokoju, postępu, sprawiedliwości i równości",
+    "note": "",
+    "nationalSymbols": "lew, merlion (mityczne stworzenie pół-lew, pół-ryba), orchidea",
+    "nationalColors": "czerwony, biały",
+    "independence": "9 sierpnia 1965 (z Federacji Malezyjskiej)",
+    "location": "Azja Południowo-Wschodnia, wyspy pomiędzy Malezją i Indonezją"
+  },
+  "si": {
+    "description": "trzy równe poziome paski w kolorze białym (na górze), niebieskim i czerwonym; pieczęć słoweńska (tarcza z Triglavem, najwyższym szczytem kraju, w kolorze białym na niebieskim tle) znajduje się pośrodku, a pod nią znajdują się dwie faliste niebieskie linie; w lewym górnym rogu pojawiają się trzy sześcioramienne gwiazdy w odwróconym trójkącie",
+    "meaning": "faliste linie przedstawiają morza i rzeki; kolory pochodzą ze średniowiecznego herbu Księstwa Krainy; gwiazdy pochodzą z herbu hrabiów Celje (słoweńskiego domu dynastycznego)",
+    "note": "",
+    "nationalSymbols": "Góra Triglav",
+    "nationalColors": "biały, niebieski, czerwony",
+    "independence": "25 czerwca 1991 (z Jugosławii)",
+    "location": "południowo-środkowa Europa, Alpy Julijskie między Austrią i Chorwacją"
+  },
+  "sl": {
+    "description": "trzy równe poziome paski w kolorze jasnozielonym (na górze), białym i jasnoniebieskim",
+    "meaning": "zielony oznacza rolnictwo, góry i zasoby naturalne; biały dla jedności i sprawiedliwości; i niebieski dla morza i naturalnego portu we Freetown",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "zielony, biały, niebieski",
+    "independence": "27 kwietnia 1961 (z Wielkiej Brytanii)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem, pomiędzy Gwineą i Liberią"
+  },
+  "sz": {
+    "description": "trzy poziome paski w kolorze niebieskim (na górze), czerwonym (o potrójnej szerokości) i niebieskim; czerwony pas jest obszyty żółto, z dużą czarno-białą tarczą pośrodku, która zakrywa dwie poziome włócznie i laskę z frędzlami z piór",
+    "meaning": "niebieski oznacza pokój i stabilność, czerwony – przeszłe walki, a żółty – zasoby mineralne kraju; tarcza, włócznie i laska symbolizują ochronę przed wrogami, a kolory tarczy oznaczają grupy etniczne żyjące w pokojowym współistnieniu",
+    "note": "",
+    "nationalSymbols": "lew, słoń",
+    "nationalColors": "niebieski, żółty, czerwony",
+    "independence": "6 września 1968 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, pomiędzy Mozambikiem a Afryką Południową"
+  },
+  "lk": {
+    "description": "żółty z dwoma panelami; mniejszy panel po lewej stronie ma dwa równe pionowe paski w kolorze zielonym (lewa strona) i pomarańczowym; większy panel przedstawia żółtego lwa trzymającego miecz na bordowym polu, z żółtym liściem bo w każdym rogu",
+    "meaning": "miecz oznacza suwerenność narodową; lew za pochodzenie syngaleskie, siłę narodu i odwagę; cztery bo, które odchodzą do buddyzmu i cztery cnoty: życzliwość, życzliwość, szczęście i spokój ducha; pomarańczowy oznacza Tamilów, zielony dla Maurów i bordowy dla większości syngaleskiej; żółty reprezentuje inne grupy etniczne",
+    "note": "uwaga: sztandar jest czasami nazywany Flagą Lwa",
+    "nationalSymbols": "lew, lilia wodna",
+    "nationalColors": "bordowy, żółty",
+    "independence": "4 lutego 1948 (z Wielkiej Brytanii)",
+    "location": "Azja Południowa, wyspa na Oceanie Indyjskim, na południe od Indii"
+  },
+  "sd": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i czarnym, z zielonym trójkątem równoramiennym opartym po lewej stronie",
+    "meaning": "czerwony oznacza walkę o wolność; biały dla pokoju, światła i miłości, czarny dla ludzi; zielony dla islamu, rolnictwa i dobrobytu\nHistoria: kolory i wzornictwo inspirowane są flagą powstania arabskiego z I wojny światowej",
+    "note": "",
+    "nationalSymbols": "sekretarz ptak",
+    "nationalColors": "czerwony, biały, czarny, zielony",
+    "independence": "1 stycznia 1956 (z Egiptu i Wielkiej Brytanii)",
+    "location": "północno-wschodnia Afryka, granicząca z Morzem Czerwonym, pomiędzy Egiptem a Erytreą"
+  },
+  "us": {
+    "description": "13 równych poziomych pasów koloru czerwonego (góra i dół) na przemian z białym; niebieski prostokąt w lewym górnym rogu ma 50 pięcioramiennych białych gwiazd, ułożonych w dziewięciu przesuniętych poziomych rzędach po sześć gwiazd (na górze i na dole) na przemian z rzędami pięciu gwiazdek",
+    "meaning": "gwiazdy reprezentują 50 stanów, a paski przedstawiają 13 pierwotnych kolonii; niebieski oznacza lojalność, oddanie, prawdę, sprawiedliwość i przyjaźń; czerwony oznacza odwagę, zapał i zapał; kolor biały oznacza czystość i prawość postępowania",
+    "note": "uwaga 1: czasami określana pod pseudonimem „Old Glory”\nuwaga 2: projekt i kolory były podstawą wielu innych flag, w tym Chile, Liberii, Malezji i Portoryko",
+    "nationalSymbols": "bielik",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "4 lipca 1776 (ogłoszono niepodległość od Wielkiej Brytanii); 3 września 1783 (uznany przez Wielką Brytanię)",
+    "location": "Ameryka Północna, granicząca zarówno z Północnym Atlantykiem, jak i Północnym Pacyfikiem, pomiędzy Kanadą i Meksykiem"
+  },
+  "so": {
+    "description": "jasnoniebieski z dużą białą pięcioramienną gwiazdą pośrodku",
+    "meaning": "na niebieskie pole pierwotnie miała wpływ flaga ONZ, ale dziś mówi się, że reprezentuje niebo i Ocean Indyjski; pięć punktów gwiazdy reprezentuje regiony w Rogu Afryki, w których żyją Somalijczycy: dawny Somaliland Brytyjski i Somaliland Włoski (które razem tworzą Somalię), Dżibuti, Ogaden (Etiopia) i Prowincja Północno-Wschodnia (Kenia)",
+    "note": "",
+    "nationalSymbols": "lampart",
+    "nationalColors": "niebieski, biały",
+    "independence": "1 lipca 1960 r. (z połączenia Somalilandu Brytyjskiego, który 26 czerwca 1960 r. uniezależnił się od Wielkiej Brytanii, i Somalilandu Włoskiego, który 1 lipca 1960 r. uniezależnił się od administrowanego przez Włochy powiernictwa ONZ, tworząc Republikę Somalii)",
+    "location": "Afryka Wschodnia, granicząca z Zatoką Adeńską i Oceanem Indyjskim, na wschód od Etiopii"
+  },
+  "ch": {
+    "description": "czerwony kwadrat z równoramiennym białym krzyżem pośrodku, który nie sięga krawędzi flagi\nhistoria: pochodzenie flagi jest niejasne, ale biały krzyż był używany do identyfikacji żołnierzy Konfederacji Szwajcarskiej w bitwie pod Laupen (1339)",
+    "meaning": "",
+    "note": "uwaga: w 1863 roku nowo utworzony Międzynarodowy Czerwony Krzyż wybrał odwrotność szwajcarskiej flagi – czerwony krzyż na białym polu – jako swój symbol",
+    "nationalSymbols": "Krzyż szwajcarski (biały krzyż na czerwonym polu)",
+    "nationalColors": "czerwony, biały",
+    "independence": "1 sierpnia 1291 (założenie Konfederacji Szwajcarskiej)",
+    "location": "Europa Środkowa, na wschód od Francji, na północ od Włoch"
+  },
+  "se": {
+    "description": "niebieski ze złotożółtym krzyżem sięgającym do krawędzi flagi; krzyż przesunięty na lewą stronę w stylu Dannebroga (flagi Danii)",
+    "meaning": "kolory pochodzą z herbu Szwecji",
+    "note": "",
+    "nationalSymbols": "trzy korony, lew",
+    "nationalColors": "niebieski, żółty",
+    "independence": "6 czerwca 1523 (Gustav WASA wybrany na króla Szwecji, co oznacza zniesienie Unii Kalmarskiej Danii, Norwegii i Szwecji)",
+    "location": "Europa Północna, granicząca z Morzem Bałtyckim, Zatoką Botnicką, Kattegat i Skagerrak, pomiędzy Finlandią a Norwegią"
+  },
+  "ss": {
+    "description": "trzy równe poziome paski w kolorze czarnym (na górze), czerwonym i zielonym; czerwony pasek ma białą obwódkę; pięcioramienna złota gwiazda znajduje się pośrodku niebieskiego trójkąta równoramiennego opartego na lewej stronie",
+    "meaning": "czarny oznacza lud, czerwony krew przelaną w walce o wolność, zielony ziemię, a niebieski Nil; złota gwiazda reprezentuje jedność stanów kraju",
+    "note": "uwaga 1: podobna do flagi Kenii\nuwaga 2: Sudan Południowy ma jedną z dwóch flag narodowych, których podstawowy wzór przedstawia sześć kolorów – druga to flaga Republiki Południowej Afryki",
+    "nationalSymbols": "Afrykański orzeł rybny",
+    "nationalColors": "czerwony, zielony, niebieski, żółty, czarny, biały",
+    "independence": "9 lipca 2011 (z Sudanu)",
+    "location": "Afryka Środkowo-Wschodnia; na południe od Sudanu, na północ od Ugandy i Kenii, na zachód od Etiopii"
+  },
+  "sy": {
+    "description": "trzy równe poziome paski w kolorze zielonym (na górze), białym i czarnym; trzy pięcioramienne czerwone gwiazdy w linii poziomej, wyśrodkowane na białym pasku",
+    "meaning": "the design is the same as a previous Syrian national flag (in use 1932-58 and 1961-63), but it is still unclear if the elements will retain the same meanings; bandy reprezentowały wcześniej byłych władców Syrii: białe (kalifat Umajjadów), czarne (kalifat Abbasydów) i zielone (kalifat Rashidun); pierwsza gwiazda reprezentowała Damaszek, Aleppo i Deir ez-Zor, trzy jednostki administracyjne w Syrii w latach trzydziestych XX wieku; druga gwiazda oznaczała Jabal Druzów (Górę Druzów), a trzecia gwiazda oznaczała Góry Alawitów\nhistoria: w 2011 r. flagę przyjęli przeciwnicy reżimu Assada; w 2025 roku stała się nową flagą narodową, zastępując dwugwiazdkową konstrukcję",
+    "note": "",
+    "nationalSymbols": "ibis łysy północny",
+    "nationalColors": "czerwony, biały, czarny, zielony",
+    "independence": "17 kwietnia 1946 (z mandatu Ligi Narodów pod administracją francuską)",
+    "location": "Bliski Wschód, graniczący z Morzem Śródziemnym, pomiędzy Libanem i Turcją"
+  },
+  "sr": {
+    "description": "pięć poziomych pasów w kolorze zielonym (góra, podwójna szerokość), białym, czerwonym (poczwórna szerokość), białym i zielonym (podwójna szerokość); pięcioramienna żółta gwiazda znajduje się pośrodku czerwonego paska",
+    "meaning": "czerwony oznacza postęp i miłość, zielony nadzieję i płodność, a biały pokój, sprawiedliwość i wolność; gwiazda reprezentuje jedność grup etnicznych",
+    "note": "",
+    "nationalSymbols": "palma królewska, faya lobi (kwiat)",
+    "nationalColors": "zielony, biały, czerwony, żółty",
+    "independence": "25 listopada 1975 (z Holandii)",
+    "location": "Północna Ameryka Południowa, granicząca z Północnym Atlantykiem, pomiędzy Gujaną Francuską a Gujaną"
+  },
+  "th": {
+    "description": "pięć poziomych pasów w kolorze czerwonym (na górze), białym, niebieskim (o podwójnej szerokości), białym i czerwonym",
+    "meaning": "czerwony oznacza naród i krew życia, biały religię i czystość buddyzmu, a niebieski monarchię",
+    "note": "uwaga: podobna do flagi Kostaryki, ale z odwróconymi kolorami niebieskim i czerwonym",
+    "nationalSymbols": "garuda (mityczna postać pół-człowieka, pół-ptaka), słoń",
+    "nationalColors": "czerwony, biały, niebieski",
+    "independence": "1238 (tradycyjna data założenia; nigdy nie skolonizowany)",
+    "location": "Azja Południowo-Wschodnia, granicząca z Morzem Andamańskim i Zatoką Tajlandzką, na południowy wschód od Birmy"
+  },
+  "tj": {
+    "description": "trzy poziome paski w kolorze czerwonym (na górze), szerszy pasek w kolorze białym i zielonym; pośrodku białego paska znajduje się złota korona pod siedmioma pięcioramiennymi złotymi gwiazdami",
+    "meaning": "czerwony oznacza słońce, zwycięstwo i jedność narodu; biały dla czystości, bawełny i górskich śniegów; zielony dla islamu i dobrodziejstw natury; korona symbolizuje naród tadżycki; gwiazdy reprezentują liczbę siedem, która jest uważana za symbol doskonałości i ucieleśnienie szczęścia",
+    "note": "",
+    "nationalSymbols": "łuk siedmiu pięcioramiennych gwiazd nad koroną, owca Marco Polo",
+    "nationalColors": "czerwony, biały, zielony",
+    "independence": "9 września 1991 (ze Związku Radzieckiego)",
+    "location": "Azja Środkowa, na zachód od Chin, na południe od Kirgistanu"
+  },
+  "tg": {
+    "description": "pięć równych poziomych pasów koloru zielonego (góra i dół) na przemian z żółtym; w lewym górnym rogu znajduje się pięcioramienna biała gwiazda na czerwonym kwadracie",
+    "meaning": "pięć poziomych pasów oznacza regiony kraju; czerwony oznacza lojalność narodu i patriotyzm; zielony dla nadziei, płodności i rolnictwa; żółty – bogactwo minerałów i wiara, że ​​ciężka praca i siła przyniosą dobrobyt; gwiazda symbolizuje życie, czystość, pokój, godność i niepodległość narodową\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "zielony, żółty, czerwony, biały",
+    "independence": "27 kwietnia 1960 (od zarządu ONZ pod administracją francuską)",
+    "location": "Afryka Zachodnia, granicząca z Zatoką Beninu, pomiędzy Beninem a Ghaną"
+  },
+  "tl": {
+    "description": "czerwony z czarnym trójkątem równoramiennym (po lewej stronie) na nieco dłuższym żółtym grocie strzałki, który sięga do środka flagi; biała gwiazda znajduje się w środku czarnego trójkąta",
+    "meaning": "żółty oznacza dawny kolonializm, czarny obskurantyzm, który należy przezwyciężyć, a czerwony walkę o wolność; biała gwiazda reprezentuje pokój i światło przewodnie",
+    "note": "",
+    "nationalSymbols": "Góra Ramelau",
+    "nationalColors": "czerwony, żółty, czarny, biały",
+    "independence": "28 listopada 1975 (z Portugalii); 20 maja 2002 (z Indonezji)",
+    "location": "Azja Południowo-Wschodnia, północny zachód od Australii na Małych Wyspach Sundajskich na wschodnim krańcu archipelagu indonezyjskiego; uwaga – Timor Wschodni obejmuje wschodnią część wyspy Timor, region Oecussi (Ambeno) w północno-zachodniej części wyspy Timor oraz wyspy Pulau Atauro i Pulau Jaco"
+  },
+  "tz": {
+    "description": "rozdzielone ukośnie czarnym pasem z żółtą krawędzią, od lewego dolnego rogu do prawego górnego rogu; górny trójkąt (lewa strona) jest zielony, a dolny niebieski",
+    "meaning": "kolory pochodzą z flag Tanganiki i Zanzibaru; zielony oznacza naturalną roślinność, złoty bogate złoża minerałów, czarny Suahili, a niebieski jeziora i rzeki, a także Ocean Indyjski",
+    "note": "",
+    "nationalSymbols": "Pochodnia Uhuru (wolności), żyrafa",
+    "nationalColors": "zielony, żółty, niebieski, czarny",
+    "independence": "26 kwietnia 1964 (Tanganika połączyła się z Zanzibarem, tworząc Zjednoczoną Republikę Tanganiki i Zanzibaru); 29 października 1964 (przemianowany na Zjednoczoną Republikę Tanzanii); godne uwagi wcześniejsze daty: 9 grudnia 1961 r. (Tanganika uniezależniła się od administrowanego przez Wielką Brytanię powiernictwa ONZ); 10 grudnia 1963 (Zanzibar uniezależnił się od Wielkiej Brytanii)",
+    "location": "Afryka Wschodnia, granicząca z Oceanem Indyjskim, pomiędzy Kenią a Mozambikiem"
+  },
+  "to": {
+    "description": "czerwony z czerwonym krzyżem na białym prostokącie w lewym górnym rogu",
+    "meaning": "krzyż oznacza chrześcijaństwo w Tonga, czerwony – krew i ofiarę Chrystusa, a biały – czystość",
+    "note": "",
+    "nationalSymbols": "czerwony krzyż na białym polu",
+    "nationalColors": "czerwony, biały",
+    "independence": "4 czerwca 1970 (ze statusu protektoratu Wielkiej Brytanii)",
+    "location": "Oceania, archipelag na południowym Pacyfiku, położony około dwóch trzecich drogi z Hawajów do Nowej Zelandii"
+  },
+  "tt": {
+    "description": "czerwony z czarnym ukośnym pasem z białą obwódką od lewego górnego do prawego dolnego rogu",
+    "meaning": "kolory reprezentują żywioły ziemi, wody i ognia; czarny oznacza także bogactwo ziemi i poświęcenie ludu; biały dla morza, czystości aspiracji kraju i równości; czerwony oznacza słońce, witalność ziemi oraz odwagę i życzliwość ludzi",
+    "note": "",
+    "nationalSymbols": "ibis szkarłatny (ptak Trynidadu), cocrico (ptak z Tobago), kwiat chakonii",
+    "nationalColors": "czerwony, biały, czarny",
+    "independence": "31 sierpnia 1962 (z Wielkiej Brytanii)",
+    "location": "Karaiby, wyspy pomiędzy Morzem Karaibskim a Północnym Oceanem Atlantyckim, na północny wschód od Wenezueli"
+  },
+  "tn": {
+    "description": "czerwony z białym dyskiem pośrodku, który przedstawia czerwony półksiężyc wokół pięcioramiennej czerwonej gwiazdy",
+    "meaning": "czerwony oznacza krew męczenników przelaną w walce z uciskiem, a biały pokój; półksiężyc i gwiazda to tradycyjne symbole islamu\nhistoria: przypomina flagę osmańską (czerwony sztandar z białym półksiężycem i gwiazdą), nawiązanie do historii Tunezji jako części Imperium Osmańskiego",
+    "note": "",
+    "nationalSymbols": "czerwony półksiężyc i pięcioramienna gwiazda w białym kole",
+    "nationalColors": "czerwony, biały",
+    "independence": "20 marca 1956 (z Francji)",
+    "location": "Afryka Północna, granicząca z Morzem Śródziemnym, pomiędzy Algierią i Libią"
+  },
+  "tm": {
+    "description": "pole zielone z pionowym czerwonym paskiem po lewej stronie; pasek ma pięć plemiennych gulów (wzory używane do produkcji dywanów) ułożonych nad dwiema skrzyżowanymi gałązkami oliwnymi; w lewym górnym rogu głównego pola pojawia się pięć pięcioramiennych białych gwiazd i biały półksiężyc",
+    "meaning": "zielony kolor i półksiężyc oznaczają islam, pięć gwiazdek oznaczają regiony kraju, a żołędzie – tożsamość narodową",
+    "note": "",
+    "nationalSymbols": "Koń Achal-Teke",
+    "nationalColors": "zielony, biały",
+    "independence": "27 października 1991 (ze Związku Radzieckiego)",
+    "location": "Azja Środkowa, granicząca z Morzem Kaspijskim, pomiędzy Iranem a Kazachstanem"
+  },
+  "tr": {
+    "description": "czerwony z pionowym białym półksiężycem i pięcioramienną białą gwiazdą pośrodku tuż za otworem półksiężyca",
+    "meaning": "kolory i wzory flagi bardzo przypominają flagę Imperium Osmańskiego; półksiężyc i gwiazda służą jako insygnia ludów tureckich; według jednej interpretacji flaga przedstawia odbicie księżyca i gwiazdy w kałuży krwi tureckich wojowników",
+    "note": "",
+    "nationalSymbols": "pionowy sierp księżyca z sąsiednią pięcioramienną gwiazdą",
+    "nationalColors": "czerwony, biały",
+    "independence": "29 października 1923 (proklamowano republikę, następczyni Imperium Osmańskiego)",
+    "location": "Europa Południowo-Wschodnia i Azja Południowo-Zachodnia (ta część Turcji na zachód od Bosforu jest geograficznie częścią Europy), granicząca z Morzem Czarnym, między Bułgarią a Gruzją oraz granicząca z Morzem Egejskim i Morzem Śródziemnym, między Grecją a Syrią"
+  },
+  "tv": {
+    "description": "jasnoniebieski z flagą Wielkiej Brytanii w lewym górnym kwadrancie; prawa połowa flagi ma dziewięć pięcioramiennych żółtych gwiazd",
+    "meaning": "gwiazdy przedstawiają mapę kraju, a każda z nich symbolizuje atol w oceanie",
+    "note": "",
+    "nationalSymbols": "maneapa (rodzimy dom spotkań)",
+    "nationalColors": "jasnoniebieski, żółty",
+    "independence": "1 października 1978 (z Wielkiej Brytanii)",
+    "location": "Oceania, grupa wysp składająca się z dziewięciu atoli koralowych na południowym Pacyfiku, mniej więcej w połowie drogi z Hawajów do Australii"
+  },
+  "ua": {
+    "description": "dwa równe poziome paski w kolorze niebieskim (na górze) i żółtym",
+    "meaning": "kolory sięgają średniowiecznej heraldyki, ale czasami mówi się, że przedstawiają pola zboża pod błękitnym niebem",
+    "note": "",
+    "nationalSymbols": "tryzub (trójząb), słonecznik",
+    "nationalColors": "niebieski, żółty",
+    "independence": "24 sierpnia 1991 (ze Związku Radzieckiego); godne uwagi wcześniejsze daty: ok. 982 (WOŁODYMYR I konsoliduje Ruś Kijowską); 1199 (utworzenie Księstwa (późniejszego Królestwa) Ruskiego); 1648 (powstanie hetmanatu kozackiego); 22 stycznia 1918 (z Rosji Radzieckiej)",
+    "location": "Europa Wschodnia, granicząca z Morzem Czarnym, pomiędzy Polską, Białorusią, Rumunią i Mołdawią na zachodzie oraz Rosją na wschodzie"
+  },
+  "ug": {
+    "description": "sześć równych poziomych pasów w kolorze czarnym (na górze), żółtym, czerwonym, czarnym, żółtym i czerwonym; biały dysk znajduje się pośrodku i przedstawia szarego koronnika (symbol narodowy)",
+    "meaning": "czarny oznacza naród afrykański, żółty oznacza słońce i witalność, a czerwony afrykańskie braterstwo",
+    "note": "",
+    "nationalSymbols": "szary koronnik",
+    "nationalColors": "czarny, żółty, czerwony",
+    "independence": "9 października 1962 (z Wielkiej Brytanii)",
+    "location": "Afryka Środkowo-Wschodnia, na zachód od Kenii, na wschód od Demokratycznej Republiki Konga"
+  },
+  "uz": {
+    "description": "trzy równe poziome pasy w kolorze niebieskim (u góry), białym i zielonym oddzielone wąskimi czerwonymi paskami z pionowym białym półksiężycem i 12 pięcioramiennymi białymi gwiazdami w lewym rogu górnego paska",
+    "meaning": "niebieski oznacza ludy tureckie i niebo, biały pokój i dążenie do czystości myśli i czynów, a zielony naturę i islam; czerwone paski przedstawiają siłę życiową wszystkich żywych organizmów; półksiężyc oznacza islam, a 12 gwiazd – miesiące i konstelacje kalendarza uzbeckiego",
+    "note": "",
+    "nationalSymbols": "khumo (mityczny ptak)",
+    "nationalColors": "niebieski, biały, czerwony, zielony",
+    "independence": "1 września 1991 (ze Związku Radzieckiego)",
+    "location": "Azja Środkowa, na północ od Turkmenistanu, na południe od Kazachstanu"
+  },
+  "uy": {
+    "description": "dziewięć równych poziomych pasków koloru białego (góra i dół) na przemian z niebieskim; biały kwadrat w lewym górnym rogu ma żółte słońce z ludzką twarzą (zaznaczoną na czarno) znane jako Słońce Majowe, z 16 promieniami naprzemiennie trójkątnymi i falistymi",
+    "meaning": "paski przedstawiają dziewięć oryginalnych departamentów kraju; słońce nawiązuje do legendy o słońcu przebijającym się przez chmury 25 maja 1810 r. po ogłoszeniu niepodległości od Hiszpanii; mówi się, że słońce to Inti, inkaski bóg słońca",
+    "note": "uwaga: baner został zainspirowany barwami narodowymi Argentyny i wzorem flagi USA",
+    "nationalSymbols": "Słońce majowe (symbol słońca z twarzą)",
+    "nationalColors": "niebieski, biały, żółty",
+    "independence": "25 sierpnia 1825 (z Brazylii)",
+    "location": "Południowa Ameryka Południowa, granicząca z południowym Oceanem Atlantyckim, pomiędzy Argentyną i Brazylią"
+  },
+  "vu": {
+    "description": "dwa równe poziome paski koloru czerwonego (na górze) i zielonego z czarnym trójkątem równoramiennym (po lewej stronie); żółty pasek z czarnymi krawędziami w kształcie poziomej litery „Y” skierowany jest w lewą stronę i otacza trójkąt; kieł dzika w trójkącie okrąża dwa skrzyżowane liście paproci namele, wszystkie w kolorze żółtym",
+    "meaning": "czerwony oznacza jedność oraz krew ludzi i dzików, zielony bogactwo wysp, a czarny lud ni-Vanuatu; żółte „Y” odzwierciedla układ wysp na Pacyfiku i symbolizuje światło Ewangelii; kieł dzika jest symbolem dobrobytu; paprocie reprezentują pokój",
+    "note": "uwaga: jedna z czterech flag narodowych odzwierciedlających kształt kraju we wzorze flagi; pozostałe to Bośnia i Hercegowina, Brazylia i Erytrea",
+    "nationalSymbols": "kieł dzika ze skrzyżowanymi liśćmi paproci",
+    "nationalColors": "czerwony, czarny, zielony, żółty",
+    "independence": "30 lipca 1980 (z Francji i Wielkiej Brytanii)",
+    "location": "Oceania, grupa wysp na południowym Pacyfiku, około trzech czwartych drogi z Hawajów do Australii"
+  },
+  "va": {
+    "description": "dwa pionowe pasy w kolorze żółtym (po lewej stronie) i białym, z herbem Stolicy Apostolskiej pośrodku białego paska; ramiona przedstawiają skrzyżowane klucze św. Piotra pod trójstopniową papieską tiarą",
+    "meaning": "żółty oznacza duchową moc papieża, a biały jego doczesną władzę",
+    "note": "",
+    "nationalSymbols": "skrzyżowane klucze pod papieską tiarą",
+    "nationalColors": "żółty, biały",
+    "independence": "11 lutego 1929",
+    "location": "Europa Południowa, enklawa Rzymu (Włochy)"
+  },
+  "hu": {
+    "description": "trzy równe poziome paski w kolorze czerwonym (na górze), białym i zielonym",
+    "meaning": "folklor przypisuje kolorom cnoty: czerwony oznacza siłę, biały wierność i zielony nadzieję; alternatywnie kolor czerwony może oznaczać krew przelaną w obronie ziemi, biały wolność, a zielony pastwiska\nhistoria: flaga pochodzi z ruchu narodowego XVIII i XIX wieku i łączy średniowieczne kolory herbu Węgier z rewolucyjnym trójkolorowym flagą francuską",
+    "note": "",
+    "nationalSymbols": "Święta Korona Węgierska (Korona Świętego Szczepana)",
+    "nationalColors": "czerwony, biały, zielony",
+    "independence": "16 listopada 1918 (proklamowano republikę); godne uwagi wcześniejsze daty: 25 grudnia 1000 r. (koronacja króla STEFANA I, tradycyjna data założenia); 30 marca 1867 (utworzenie podwójnej monarchii austro-węgierskiej)",
+    "location": "Europa Środkowa, na północny zachód od Rumunii"
+  },
+  "ve": {
+    "description": "trzy równe poziome pasy w kolorze żółtym (u góry), niebieskim i czerwonym, z herbem po lewej stronie żółtego paska i łukiem ośmiu pięcioramiennych białych gwiazd wyśrodkowanych na niebieskim pasku",
+    "meaning": "żółty oznacza bogactwo ziemi, niebieski odwagę jej mieszkańców, a czerwony krew przelaną w celu uzyskania niepodległości\nhistoria: flaga zachowała trzy równe poziome pasy i trzy główne kolory z flagi Gran Colombia, republiki Ameryki Południowej, która rozpadła się w 1830 roku; w 2006 r. prezydent Hugo CHAVEZ dodał ósmą gwiazdę – oryginalne siedem gwiazd reprezentowało prowincje kraju, które zjednoczyły się w wojnie o niepodległość – aby pasowała do flagi Simona Bolivara z 1827 r. i reprezentowała historyczną prowincję Guajana",
+    "note": "",
+    "nationalSymbols": "troupial (ptak)",
+    "nationalColors": "żółty, niebieski, czerwony",
+    "independence": "5 lipca 1811 (z Hiszpanii)",
+    "location": "Północna Ameryka Południowa, granicząca z Morzem Karaibskim i Północnym Oceanem Atlantyckim, pomiędzy Kolumbią a Gujaną"
+  },
+  "vn": {
+    "description": "czerwone pole z pięcioramienną żółtą gwiazdą pośrodku",
+    "meaning": "czerwony oznacza rewolucję i krew, a pięcioramienna gwiazda oznacza pięć elementów społeczeństwa – chłopów, robotników, intelektualistów, handlarzy i żołnierzy – którzy jednoczą się, aby budować socjalizm",
+    "note": "",
+    "nationalSymbols": "pięcioramienna żółta gwiazda na czerwonym polu, kwiat lotosu",
+    "nationalColors": "czerwony, żółty",
+    "independence": "2 września 1945 (z Francji)",
+    "location": "Azja Południowo-Wschodnia, granicząca z Zatoką Tajlandzką, Zatoką Tonkińską i Morzem Południowochińskim, a także Chinami, Laosem i Kambodżą"
+  },
+  "sb": {
+    "description": "oddzielone ukośnie żółtym paskiem od lewego dolnego rogu; górny trójkąt (lewa strona) jest niebieski z pięcioma pięcioramiennymi białymi gwiazdami we wzorze „X”; dolny trójkąt jest zielony",
+    "meaning": "niebieski oznacza ocean, zielony ląd, a żółty słońce; pięć gwiazdek oznacza główne grupy wysp",
+    "note": "",
+    "nationalSymbols": "",
+    "nationalColors": "niebieski, żółty, zielony, biały",
+    "independence": "7 lipca 1978 (z Wielkiej Brytanii)",
+    "location": "Oceania, grupa wysp na południowym Pacyfiku, na wschód od Papui Nowej Gwinei"
+  },
+  "ci": {
+    "description": "trzy równe pionowe paski w kolorze pomarańczowym (lewa strona), białym i zielonym",
+    "meaning": "pomarańczowy oznacza sawannę i płodność, biały pokój i jedność, zielony lasy południa i nadzieję na świetlaną przyszłość; projekt wzorowany na fladze Francji",
+    "note": "uwaga: podobna do flagi Irlandii, która jest szersza i ma odwrócone kolory - zielony (lewa strona), biały i pomarańczowy; również podobna do flagi Włoch, która jest zielona (lewa strona), biała i czerwona",
+    "nationalSymbols": "słoń",
+    "nationalColors": "pomarańczowy, biały, zielony",
+    "independence": "7 sierpnia 1960 (z Francji)",
+    "location": "Afryka Zachodnia, granicząca z Północnym Atlantykiem, pomiędzy Ghaną i Liberią"
+  },
+  "cm": {
+    "description": "trzy równe pionowe paski w kolorze zielonym (po lewej stronie), czerwonym i żółtym, z małą pięcioramienną żółtą gwiazdą pośrodku czerwonego paska",
+    "meaning": "czerwony oznacza jedność; żółty dla słońca, szczęścia i północnych sawann; zieleń dla nadziei i lasy południa; gwiazda nazywana jest „gwiazdą jedności”; pionowy trójkolorowy wzór jest podobny do flagi francuskiej\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "",
+    "nationalSymbols": "lew",
+    "nationalColors": "zielony, czerwony, żółty",
+    "independence": "1 stycznia 1960 (od zarządu ONZ pod administracją francuską)",
+    "location": "Afryka Środkowa, granicząca z Zatoką Biafra, pomiędzy Gwineą Równikową a Nigerią"
+  },
+  "it": {
+    "description": "trzy równe pionowe paski koloru zielonego (lewa strona), białego i czerwonego",
+    "meaning": "kolory to kolory Mediolanu (czerwony i biały) w połączeniu z zielonym jednolitym kolorem mediolańskiej straży obywatelskiej\nhistoria: projekt inspirowany francuską flagą, którą Napoleon przywiózł do Włoch w 1797 roku",
+    "note": "uwaga: podobna do flagi Meksyku (dłuższe, ciemniejsze odcienie zieleni i czerwieni, z herbem wyśrodkowanym na białym pasku), Irlandii (dłuższa i z pomarańczą zamiast czerwieni) i Wybrzeża Kości Słoniowej (odwrócone kolory)",
+    "nationalSymbols": "pięcioramienna biała gwiazda (Stella d'Italia)",
+    "nationalColors": "czerwony, biały, zielony",
+    "independence": "17 marca 1861",
+    "location": "Europa Południowa, półwysep rozciągający się do środkowego Morza Śródziemnego, na północny wschód od Tunezji"
+  },
+  "mh": {
+    "description": "niebieski z pomarańczowym paskiem i białym paskiem promieniującym od lewego dolnego rogu do prawego górnego rogu; biała gwiazda z czterema dużymi promieniami i 20 małymi promieniami pojawia się po lewej stronie nad dwoma paskami",
+    "meaning": "niebieski oznacza Ocean Spokojny, pomarańczowy Łańcuch Ralik (lub zachód słońca i odwagę), a biały Łańcuch Ratak (lub wschód słońca i spokój); gwiazda symbolizuje krzyż chrześcijański, z małym promieniem dla każdego okręgu wyborczego i większym promieniem dla głównych ośrodków kulturalnych Majuro, Jaluit, Wotje i Ebeye; ukośne paski można również interpretować jako reprezentujące równik, z gwiazdą wskazującą położenie archipelagu",
+    "note": "",
+    "nationalSymbols": "gwiazda 24-ramienna",
+    "nationalColors": "niebieski, biały, pomarańczowy",
+    "independence": "21 października 1986 (z administrowanego przez USA powiernictwa ONZ)",
+    "location": "Oceania składa się z 29 atoli i pięciu odizolowanych wysp na północnym Pacyfiku, mniej więcej w połowie drogi między Hawajami a Australią; atole i wyspy układają się w dwa, niemal równoległe łańcuchy wysp – grupę Ratak (wschód słońca) i grupę Ralik (zachód słońca); całkowita liczba wysp i wysepek wynosi około 1225; 22 atole i cztery wyspy są niezamieszkane"
+  },
+  "ae": {
+    "description": "trzy równe poziome paski w kolorze zielonym (na górze), białym i czarnym, z szerszym pionowym czerwonym paskiem po lewej stronie",
+    "meaning": "flaga zawiera wszystkie cztery kolory panarabskie, które w tym przypadku reprezentują płodność (zielony), neutralność (biały), olej (czarny) i jedność (czerwony); czerwony to tradycyjny kolor, który był częścią flag wszystkich emiratów przed ich zjednoczeniem",
+    "note": "",
+    "nationalSymbols": "złoty sokół",
+    "nationalColors": "zielony, biały, czarny, czerwony",
+    "independence": "2 grudnia 1971 (z Wielkiej Brytanii)",
+    "location": "Bliski Wschód, graniczący z Zatoką Omańską i Zatoką Perską, pomiędzy Omanem a Arabią Saudyjską"
+  },
+  "zm": {
+    "description": "zielone pole ze szybującym pomarańczowym orłem w prawym górnym rogu; pod orłem znajduje się panel trzech pionowych pasów, w kolorze czerwonym (lewa strona), czarnym i pomarańczowym",
+    "meaning": "zielony oznacza zasoby naturalne i roślinność kraju, czerwony walkę o wolność, czarny ludzi, a pomarańczowy bogactwa mineralne kraju; orzeł reprezentuje zdolność narodu do wzniesienia się ponad problemy narodu",
+    "note": "",
+    "nationalSymbols": "Afrykański orzeł rybny",
+    "nationalColors": "zielony, czerwony, czarny, pomarańczowy",
+    "independence": "24 października 1964 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, na wschód od Angoli, na południe od Demokratycznej Republiki Konga"
+  },
+  "gb": {
+    "description": "niebieskie pole z czerwonym krzyżem św. Jerzego (patrona Anglii) obramowanym na biało na szczycie ukośnego czerwonego krzyża św. Patryka (patrona Irlandii), który znajduje się na szczycie ukośnego białego krzyża św. Andrzeja (patrona Szkocji)\nhistoria: oficjalna nazwa to Flaga Unii, ale powszechnie nazywana jest Union Jack; projekt i kolory stały się podstawą wielu innych flag",
+    "meaning": "",
+    "note": "",
+    "nationalSymbols": "lew (cała Wielka Brytania); lew, róża Tudorów, dąb (Anglia); lew, jednorożec, oset (Szkocja); smok, żonkil, por (Walia); koniczyna, len (Irlandia Północna)",
+    "nationalColors": "czerwony, biały, niebieski (cała Wielka Brytania); czerwony, biały (Anglia); niebieski, biały (Szkocja); czerwony, biały, zielony (Walia)",
+    "independence": "brak oficjalnej daty niepodległości: 927 (połączenie mniejszych królestw angielskich); 3 marca 1284 (uchwalenie Statutu Rhuddlan jednoczącego Anglię i Walię); 1536 (Akt unii włącza Anglię i Walię); 1 maja 1707 (Akt Unii jednoczy Anglię, Szkocję i Walię jako Wielką Brytanię); 1 stycznia 1801 (Akty unii jednoczą Wielką Brytanię i Irlandię jako Zjednoczone Królestwo Wielkiej Brytanii i Irlandii); 6 grudnia 1921 (traktat anglo-irlandzki formalizuje podział Irlandii; sześć hrabstw staje się Irlandią Północną i pozostaje częścią Wielkiej Brytanii); 12 kwietnia 1927 (Ustawa o tytułach królewskich i parlamentarnych ustala obecną nazwę Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej)",
+    "location": "Europa Zachodnia, wyspy – w tym północna jedna szósta wyspy Irlandii – pomiędzy Północnym Oceanem Atlantyckim a Morzem Północnym; na północny zachód od Francji"
+  },
+  "st": {
+    "description": "trzy poziome paski w kolorze zielonym (na górze), żółtym (podwójna szerokość) i zielonym z dwiema pięcioramiennymi czarnymi gwiazdami pośrodku żółtego paska i czerwonym trójkątem równoramiennym opartym po lewej stronie",
+    "meaning": "zielony oznacza bogatą roślinność kraju, czerwony walkę o niepodległość, a żółty kakao, jeden z głównych produktów rolnych kraju; dwie gwiazdy symbolizują główne wyspy\nhistoria: wykorzystuje barwy ruchu panafrykańskiego",
+    "note": "",
+    "nationalSymbols": "palma",
+    "nationalColors": "zielony, żółty, czerwony, czarny",
+    "independence": "12 lipca 1975 (z Portugalii)",
+    "location": "Afryka Środkowa, wyspy w Zatoce Gwinejskiej, na północ od równika, na zachód od Gabonu"
+  },
+  "zw": {
+    "description": "siedem równych poziomych pasów w kolorze zielonym (na górze), żółtym, czerwonym, czarnym, czerwonym, żółtym i zielonym, z białym trójkątem równoramiennym z czarną obwódką po lewej stronie; pośrodku trójkąta żółty ptak znajduje się na szczycie pięcioramiennej czerwonej gwiazdy",
+    "meaning": "ptak reprezentuje długą historię kraju; biały oznacza pokój, zielony rolnictwo, żółty bogactwa mineralne, czerwony krew przelaną za osiągnięcie niepodległości, a czarny naród",
+    "note": "",
+    "nationalSymbols": "Symbol ptaka Zimbabwe, afrykański orzeł rybny, lilia płomienista",
+    "nationalColors": "zielony, żółty, czerwony, czarny, biały",
+    "independence": "18 kwietnia 1980 (z Wielkiej Brytanii)",
+    "location": "Afryka Południowa, pomiędzy Afryką Południową a Zambią"
+  }
+}
