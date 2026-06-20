@@ -4,10 +4,12 @@ Interaktywny, źródłowy atlas weksylologiczny. Zawiera:
 
 - 195 flag państwowych: 193 członków ONZ oraz Watykan i Palestynę;
 - polską monografię każdej flagi z opisem konstrukcji, symboliką, kontekstem i źródłem;
-- wyszukiwanie według państwa, stolicy, symbolu, koloru i rodziny wzoru;
+- wyszukiwanie według państwa, stolicy, symbolu, koloru i rodziny wzoru oraz filtr zapisanych flag;
 - pracownię z terminologią i ośmioma rodzinami projektowymi;
-- porównywarkę trzech flag;
-- trzy tryby quizu: rozpoznawanie, wiedza i rozumowanie oraz rodziny wzorów.
+- sześć wielopaństwowych szlaków badawczych z postępem czytania;
+- lokalny zeszyt badacza z zapisanymi flagami i własnymi notatkami;
+- porównywarkę trzech flag z analizą podobieństwa i gotowymi zestawami;
+- cztery tryby quizu: rozpoznawanie, wiedza i rozumowanie, rodziny wzorów oraz dedukcja z poszlak.
 
 ## Uruchomienie
 
